@@ -127,7 +127,7 @@ varImportance = data.frame(Variables = row.names(importance),
                            Importance =round(importance[, "MeanDecreaseAccuracy"],2))
 
 rankImportance= varImportance %>% mutate(Rank=paste("#",dplyr::dense_rank(dplyr::desc(Importance))))
-rankImportance2 <- rankImportance[rankImportance$Importance > 1.1,]
+rankImportance2 <- rankImportance[rankImportance$Importance > 1.1 ,]#| rankImportance$Importance < -0.5
 
 var_imp<- ggplot(rankImportance2,aes(x=reorder(Variables,Importance),y=Importance,fill=Importance))+ 
   geom_bar(stat="identity") + 
