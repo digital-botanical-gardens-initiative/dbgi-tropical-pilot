@@ -1,0 +1,5052 @@
+{
+  "context": "Seed plants",
+  "governing_code": "ICN",
+  "includes_approximate_matches": true,
+  "includes_deprecated_taxa": false,
+  "includes_suppressed_names": false,
+  "matched_names": [
+    "abroma augustum",
+    "abutilon grandifolium",
+    "alpinia galanga",
+    "alpinia officinarum",
+    "ananas comosus",
+    "annona cherimola",
+    "arachis hypogaea",
+    "averrhoa carambola",
+    "bambusa vulgaris",
+    "bixa orellana",
+    "blighia sapida",
+    "boehmeria nivea",
+    "brahea edulis",
+    "brosimum alicastrum",
+    "tara spinosa",
+    "canna indica",
+    "capsicum frutescens",
+    "carica papaya",
+    "carludovica palmata",
+    "catha edulis",
+    "catharanthus roseus",
+    "cinnamomum verum",
+    "costus afer",
+    "cheilocostus speciosus",
+    "crescentia cujete",
+    "cycas circinalis",
+    "cyperus esculentus",
+    "cyperus papyrus",
+    "derris elliptica",
+    "elettaria cardamomum",
+    "elettaria ensal",
+    "erythroxylum coca",
+    "eucharis x grandiflora",
+    "eugenia uniflora",
+    "ficus elastica",
+    "furcraea gigantea",
+    "gossypium arboreum",
+    "guaiacum officinale",
+    "gynostemma pentaphyllum",
+    "talipariti tiliaceum",
+    "hylocereus undatus",
+    "indigofera tinctoria",
+    "jasminum sambac",
+    "khaya senegalensis",
+    "leucaena",
+    "phyla dulcis",
+    "mangifera indica",
+    "manihot esculenta",
+    "morina longifolia",
+    "bergera koenigii",
+    "festuca paniculata",
+    "musa acuminata",
+    "musa basjoo",
+    "oryza sativa",
+    "passiflora quadrangularis",
+    "paullinia cupana",
+    "payena leerii",
+    "persea americana",
+    "persicaria odorata",
+    "physalis peruviana",
+    "piper betle",
+    "piper longum",
+    "piper retrofractum",
+    "plectranthus amboinicus",
+    "pogostemon cablin",
+    "psidium cattleyanum",
+    "psychotria bacteriophila",
+    "rivina humilis",
+    "rungia klossii",
+    "saccharum officinarum",
+    "salvia divinorum",
+    "sansevieria longiflora",
+    "sansevieria trifasciata",
+    "senna alexandrina",
+    "senna siamea",
+    "serenoa repens",
+    "solanum betaceum",
+    "solanum quitoense",
+    "stevia rebaudiana",
+    "strophanthus gratus",
+    "strophanthus hispidus",
+    "syzygium jambos",
+    "thevetia peruviana",
+    "vanilla planifolia",
+    "chrysopogon zizanioides",
+    "trichostigma peruvianum",
+    "coffea arabica",
+    "phedimus spurius"
+  ],
+  "results": [
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Abroma augustum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "abroma augustum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Abroma augustum",
+            "ott_id": 385534,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Abroma angusta",
+              "Ambroma augusta",
+              "Ambroma augustum",
+              "Theobroma augustum"
+            ],
+            "tax_sources": [
+              "ncbi:82454"
+            ],
+            "unique_name": "Abroma augustum (species in kingdom Archaeplastida)"
+          }
+        }
+      ],
+      "name": "abroma augustum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Abutilon grandifolium",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "abutilon grandifolium",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Abutilon grandifolium",
+            "ott_id": 464177,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Abutilon kauaiense",
+              "Abutilon molle",
+              "Abutilon sordidium",
+              "Sida grandifolia",
+              "Sida mollis"
+            ],
+            "tax_sources": [
+              "ncbi:424428",
+              "gbif:3152633",
+              "irmng:10198174"
+            ],
+            "unique_name": "Abutilon grandifolium"
+          }
+        }
+      ],
+      "name": "abutilon grandifolium"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Alpinia galanga",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "alpinia galanga",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Alpinia galanga",
+            "ott_id": 1063872,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Alpinia alba",
+              "Alpinia bifida",
+              "Alpinia carnea",
+              "Alpinia galanga pyramidata",
+              "Alpinia pyramidata",
+              "Alpinia rheedei",
+              "Alpinia viridiflora",
+              "Amomum galanga",
+              "Amomum medium",
+              "Galanga major oppr",
+              "Galanga officinalis",
+              "Hellenia alba",
+              "Heritiera alba",
+              "Languas galanga",
+              "Languas pyramidata",
+              "Languas vulgare",
+              "Maranta galanga",
+              "Zingiber galanga",
+              "Zingiber medium",
+              "Zingiber sylvestre"
+            ],
+            "tax_sources": [
+              "ncbi:94327",
+              "gbif:5302225",
+              "irmng:11003936"
+            ],
+            "unique_name": "Alpinia galanga"
+          }
+        }
+      ],
+      "name": "alpinia galanga"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Alpinia officinarum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "alpinia officinarum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Alpinia officinarum",
+            "ott_id": 477388,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Languas officinarum"
+            ],
+            "tax_sources": [
+              "ncbi:199623",
+              "gbif:5302199",
+              "irmng:10892054"
+            ],
+            "unique_name": "Alpinia officinarum"
+          }
+        }
+      ],
+      "name": "alpinia officinarum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Ananas comosus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "ananas comosus",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Ananas comosus",
+            "ott_id": 627039,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Ananas ananas",
+              "Ananas argentata",
+              "Ananas aurata",
+              "Ananas bracteatus paraguayensis",
+              "Ananas coccineus",
+              "Ananas comosus var. comosus",
+              "Ananas glaber",
+              "Ananas lucidus",
+              "Ananas maxima",
+              "Ananas mordilona",
+              "Ananas ovatus",
+              "Ananas penangensis",
+              "Ananas proliferus",
+              "Ananas pyramidalis",
+              "Ananas sativus lucidus",
+              "Ananas serotinus",
+              "Ananas viridis",
+              "Ananassa mordilona",
+              "Bromelia ananas",
+              "Bromelia ananas inermis",
+              "Bromelia communis",
+              "Bromelia comosa",
+              "Bromelia edulis",
+              "Bromelia glabra",
+              "Bromelia inermis",
+              "Bromelia rubra",
+              "Bromelia subspinosa",
+              "Bromelia viridis"
+            ],
+            "tax_sources": [
+              "ncbi:4615",
+              "gbif:5288776",
+              "gbif:5288819",
+              "irmng:10207532"
+            ],
+            "unique_name": "Ananas comosus"
+          }
+        }
+      ],
+      "name": "ananas comosus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Annona cherimola",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "annona cherimola",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Annona cherimola",
+            "ott_id": 227737,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Annona acutifolia",
+              "Annona cheirimola",
+              "Annona cherimola cv. 'Fino de Jete'",
+              "Annona cherimola loxensis",
+              "Annona odorata",
+              "Annona pubescens",
+              "Annona tripetala"
+            ],
+            "tax_sources": [
+              "ncbi:49314",
+              "gbif:5407147",
+              "irmng:10891540",
+              "irmng:10206291"
+            ],
+            "unique_name": "Annona cherimola"
+          }
+        }
+      ],
+      "name": "annona cherimola"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Arachis hypogaea",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "arachis hypogaea",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Arachis hypogaea",
+            "ott_id": 39541,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Arachis hypogaea nambyquarae",
+              "Arachis hypogaea oleifera",
+              "Arachis nambyquarae"
+            ],
+            "tax_sources": [
+              "ncbi:3818",
+              "gbif:5353770",
+              "irmng:10729017"
+            ],
+            "unique_name": "Arachis hypogaea"
+          }
+        }
+      ],
+      "name": "arachis hypogaea"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Averrhoa carambola",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "averrhoa carambola",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Averrhoa carambola",
+            "ott_id": 760798,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Averrhoa acutangula",
+              "Averrhoa microphylla",
+              "Averrhoa pentandra",
+              "Connaropsis philippica",
+              "Sarcotheca philippica"
+            ],
+            "tax_sources": [
+              "ncbi:28974",
+              "gbif:2891641",
+              "irmng:10694428"
+            ],
+            "unique_name": "Averrhoa carambola"
+          }
+        }
+      ],
+      "name": "averrhoa carambola"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Bambusa vulgaris",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "bambusa vulgaris",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Bambusa vulgaris",
+            "ott_id": 1087322,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Arundarbor blancoi",
+              "Arundarbor fera",
+              "Arundarbor mitis",
+              "Arundarbor monogyna",
+              "Arundarbor striata",
+              "Arundo fera",
+              "Arundo mitis",
+              "Bambos mitis",
+              "Bambusa auriculata",
+              "Bambusa blancoi",
+              "Bambusa fera",
+              "Bambusa latiflora",
+              "Bambusa mitis",
+              "Bambusa monogyna",
+              "Bambusa nguyenii",
+              "Bambusa sieberi",
+              "Bambusa striata",
+              "Bambusa surinamensis",
+              "Bambusa thouarsii",
+              "Bambusa vulgaris aureovariegata",
+              "Bambusa vulgaris latiflora",
+              "Bambusa vulgaris striata",
+              "Bambusa vulgaris vittata",
+              "Bambusa vulgaris waminii",
+              "Bambusa wamin",
+              "Barbusa vulgaris",
+              "Gigantochloa auriculata",
+              "Leleba vulgaris",
+              "Leleba vulgaris striata",
+              "Nastus thouarsii",
+              "Nastus viviparus",
+              "Oxytenanthera auriculata",
+              "Phyllostachys mitis"
+            ],
+            "tax_sources": [
+              "ncbi:58168",
+              "gbif:7661971",
+              "irmng:10195132",
+              "irmng:10765075"
+            ],
+            "unique_name": "Bambusa vulgaris"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Bambusa vulgaris",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "bambusa vulgaris",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Bambusa balcooa",
+            "ott_id": 483378,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Arundarbor balcooa",
+              "Bambusa capensis",
+              "Bambusa vulgaris",
+              "Dendrocalamus balcooa"
+            ],
+            "tax_sources": [
+              "ncbi:288444",
+              "gbif:4144244"
+            ],
+            "unique_name": "Bambusa balcooa"
+          }
+        }
+      ],
+      "name": "bambusa vulgaris"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Bixa orellana",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "bixa orellana",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Bixa orellana",
+            "ott_id": 287352,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Bixa acuminata",
+              "Bixa americana",
+              "Bixa katangensis",
+              "Bixa odorata",
+              "Bixa orellana leiocarpa",
+              "Bixa orleana",
+              "Bixa platycarpa",
+              "Bixa purpurea",
+              "Bixa tinctaria",
+              "Bixa tinctoria",
+              "Orellana americana",
+              "Orellana americana leiocarpa",
+              "Orellana orellana"
+            ],
+            "tax_sources": [
+              "ncbi:66672",
+              "gbif:2874863",
+              "irmng:11163869"
+            ],
+            "unique_name": "Bixa orellana"
+          }
+        }
+      ],
+      "name": "bixa orellana"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Blighia sapida",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "blighia sapida",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Blighia sapida",
+            "ott_id": 943319,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Akea solitaria",
+              "Akeesia africana",
+              "Cupania akeesia",
+              "Cupania sapida"
+            ],
+            "tax_sources": [
+              "ncbi:259381",
+              "gbif:3189955",
+              "irmng:10202237"
+            ],
+            "unique_name": "Blighia sapida"
+          }
+        }
+      ],
+      "name": "blighia sapida"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Boehmeria nivea",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "boehmeria nivea",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Boehmeria nivea",
+            "ott_id": 594991,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Boehmeria candicans",
+              "Boehmeria compacta",
+              "Boehmeria frutescens concolor",
+              "Boehmeria frutescens viridula",
+              "Boehmeria mollicoma",
+              "Boehmeria nipononivea",
+              "Boehmeria nipononivea concolor",
+              "Boehmeria nivea candicans",
+              "Boehmeria nivea concolor",
+              "Boehmeria nivea nipononivea",
+              "Boehmeria nivea reticulata",
+              "Boehmeria nivea tenacissima",
+              "Boehmeria nivea viridula",
+              "Boehmeria sp. PSS-2000",
+              "Boehmeria tenacissima",
+              "Boehmeria thailandica",
+              "Callicarpa adenanthera",
+              "Callicarpa cana",
+              "Callicarpa cana dentata",
+              "Callicarpa cana glabriuscula",
+              "Callicarpa cana integrifolia",
+              "Callicarpa cana sumatrana",
+              "Callicarpa cana typica",
+              "Callicarpa candicans",
+              "Callicarpa candicans candicans",
+              "Callicarpa candicans glabriuscula",
+              "Callicarpa candicans integrifolia",
+              "Callicarpa candicans paucinervia",
+              "Callicarpa candicans ponapensis",
+              "Callicarpa candicans sumatrana",
+              "Callicarpa heynei",
+              "Callicarpa macrocarpa",
+              "Callicarpa paucinervia",
+              "Callicarpa rheedei",
+              "Callicarpa sinensis",
+              "Callicarpa sumatrana",
+              "Callicarpa tomentosa",
+              "Procris nivea",
+              "Ramium niveum",
+              "Urtica candicans",
+              "Urtica lamiifolia",
+              "Urtica nivea",
+              "Urtica tenacissima"
+            ],
+            "tax_sources": [
+              "ncbi:83906",
+              "gbif:2984359",
+              "irmng:10927089"
+            ],
+            "unique_name": "Boehmeria nivea"
+          }
+        }
+      ],
+      "name": "boehmeria nivea"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Brahea edulis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "brahea edulis",
+          "taxon": {
+            "flags": [
+              "incertae_sedis_inherited"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Brahea edulis",
+            "ott_id": 3947813,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Erythea edulis"
+            ],
+            "tax_sources": [
+              "ncbi:2021205",
+              "gbif:2736827"
+            ],
+            "unique_name": "Brahea edulis"
+          }
+        }
+      ],
+      "name": "brahea edulis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Brosimum alicastrum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "brosimum alicastrum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Brosimum alicastrum",
+            "ott_id": 923984,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Brosimum uleanum"
+            ],
+            "tax_sources": [
+              "ncbi:194253",
+              "gbif:2984660",
+              "irmng:10766687"
+            ],
+            "unique_name": "Brosimum alicastrum"
+          }
+        }
+      ],
+      "name": "brosimum alicastrum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Tara spinosa",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "tara spinosa",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Tara spinosa",
+            "ott_id": 946906,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "? tinctoria",
+              "Caesalpinia pectinata",
+              "Caesalpinia spinosa",
+              "Caesalpinia tara",
+              "Caesalpinia tinctoria",
+              "Coulteria tinctoria",
+              "Poinciana spinosa"
+            ],
+            "tax_sources": [
+              "ncbi:191904",
+              "gbif:2958521",
+              "irmng:11230501"
+            ],
+            "unique_name": "Tara spinosa"
+          }
+        }
+      ],
+      "name": "tara spinosa"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Canna indica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "canna indica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Canna indica",
+            "ott_id": 156276,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Canna achiras",
+              "Canna altensteinii",
+              "Canna amabilis",
+              "Canna ascendens",
+              "Canna atronigricans",
+              "Canna aurantiaca",
+              "Canna aurantiaca splendida",
+              "Canna aureovittata",
+              "Canna barbadica",
+              "Canna bidentata",
+              "Canna bifida",
+              "Canna brasiliensis",
+              "Canna caledonis-peltata",
+              "Canna carnea",
+              "Canna cearensis",
+              "Canna cinnabarina",
+              "Canna coccinea",
+              "Canna coccinea bicolor",
+              "Canna coccinea concolor",
+              "Canna coccinea flaviflora",
+              "Canna coccinea floribunda",
+              "Canna coccinea limbata",
+              "Canna commutata",
+              "Canna compacta",
+              "Canna concinna",
+              "Canna crocea",
+              "Canna densifolia",
+              "Canna denudata grandis",
+              "Canna discolor",
+              "Canna discolor rubripunctata",
+              "Canna discolor viridifolia",
+              "Canna edulis",
+              "Canna ehrenbergii",
+              "Canna ellipticifolia coccinea",
+              "Canna ellipticifolia lutea",
+              "Canna ellipticifolia patens",
+              "Canna ellipticifolia rubra",
+              "Canna esculenta publ",
+              "Canna exigua",
+              "Canna eximia",
+              "Canna expansa",
+              "Canna flavescens",
+              "Canna floribunda",
+              "Canna formosa",
+              "Canna fuchsina",
+              "Canna fulgida",
+              "Canna gaboniensis",
+              "Canna heliconiifolia",
+              "Canna heliconiifolia xalapensis",
+              "Canna houlletii",
+              "Canna humilis",
+              "Canna indica coccinea",
+              "Canna indica edwardsii",
+              "Canna indica flava",
+              "Canna indica karsteniana",
+              "Canna indica limbata",
+              "Canna indica lutea",
+              "Canna indica maculata",
+              "Canna indica nepalensis",
+              "Canna indica orientalis",
+              "Canna indica patens",
+              "Canna indica rubra",
+              "Canna indica rubroaurantiaca",
+              "Canna indica sanctae-rosae",
+              "Canna indica saturaterubra",
+              "Canna indica speciosa",
+              "Canna indica variegata",
+              "Canna indica warszewiczii",
+              "Canna juncea",
+              "Canna laeta",
+              "Canna lagunensis",
+              "Canna lambertii",
+              "Canna lanuginosa",
+              "Canna lavallei",
+              "Canna leptochila",
+              "Canna liervalii",
+              "Canna limbata",
+              "Canna limbata hybrida",
+              "Canna lutea",
+              "Canna lutea aurantiaca",
+              "Canna lutea genuina",
+              "Canna lutea maculata",
+              "Canna lutea pallida",
+              "Canna macrophylla",
+              "Canna maculata",
+              "Canna maxima",
+              "Canna maxima publ",
+              "Canna montana",
+              "Canna moritziana",
+              "Canna musifolia",
+              "Canna musifolia sanguinea",
+              "Canna musifolia-edulis",
+              "Canna musifolia-hybrida",
+              "Canna nepalensis",
+              "Canna occidentalis",
+              "Canna orientalis",
+              "Canna orientalis flava",
+              "Canna orientalis flavescens",
+              "Canna pallida",
+              "Canna pallida maculata",
+              "Canna patens",
+              "Canna patens limbata",
+              "Canna pentaphylla",
+              "Canna peruviana",
+              "Canna peruviana-purpurea",
+              "Canna peruviana-robusta",
+              "Canna peruviana-spectabilis",
+              "Canna platyphylla",
+              "Canna plurituberosa",
+              "Canna poeppigii",
+              "Canna polyclada",
+              "Canna polymorpha",
+              "Canna porteana",
+              "Canna portoricensis",
+              "Canna pruinosa",
+              "Canna pulchra",
+              "Canna purpurea-spectabilis",
+              "Canna recurvata",
+              "Canna robusta",
+              "Canna rotundifolia",
+              "Canna rubricaulis",
+              "Canna sanctae-rosae",
+              "Canna sanguinea",
+              "Canna saturate-rubra",
+              "Canna schubertii",
+              "Canna seleriana",
+              "Canna sellowii",
+              "Canna speciosa",
+              "Canna spectabilis",
+              "Canna surinamensis",
+              "Canna tenuiflora",
+              "Canna texensis",
+              "Canna textoria",
+              "Canna van-houttei",
+              "Canna variegata",
+              "Canna variegatifolia",
+              "Canna ventricosa",
+              "Canna warszewiczii flameus",
+              "Canna xalapensis",
+              "Canna zebrina",
+              "Canna zebrina nana",
+              "Cannacorus indicus",
+              "Distemon brasiliensis",
+              "Xyphostylis lutea"
+            ],
+            "tax_sources": [
+              "ncbi:4628",
+              "gbif:8034409",
+              "irmng:10208100",
+              "irmng:10589873"
+            ],
+            "unique_name": "Canna indica"
+          }
+        }
+      ],
+      "name": "canna indica"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Capsicum frutescens",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "capsicum frutescens",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Capsicum frutescens",
+            "ott_id": 473831,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Capsicum annuum frutescens",
+              "Capsicum baccatum",
+              "Capsicum cereolum",
+              "Capsicum comarim",
+              "Capsicum frutescens glabriusculum",
+              "Capsicum frutescens queenslandicum",
+              "Capsicum longum",
+              "Capsicum micranthum",
+              "Capsicum minimum",
+              "Capsicum odoratum",
+              "Capsicum odoriferum"
+            ],
+            "tax_sources": [
+              "ncbi:4073",
+              "gbif:8403992"
+            ],
+            "unique_name": "Capsicum frutescens"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Capsicum frutescens",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "capsicum frutescens",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Capsicum annuum",
+            "ott_id": 473836,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Capsicum angulosum",
+              "Capsicum annuum abbreviatum",
+              "Capsicum annuum bicolor",
+              "Capsicum annuum cerasiforme",
+              "Capsicum annuum certoides",
+              "Capsicum annuum conoide",
+              "Capsicum annuum fasciculatum",
+              "Capsicum annuum grossum",
+              "Capsicum annuum incrassatum",
+              "Capsicum annuum longum",
+              "Capsicum axi",
+              "Capsicum baccatum",
+              "Capsicum bicolor",
+              "Capsicum cerasiforme",
+              "Capsicum chamaecerasus",
+              "Capsicum conicum",
+              "Capsicum conoideum",
+              "Capsicum cordiforme",
+              "Capsicum curvipes",
+              "Capsicum cydoniforme",
+              "Capsicum fasciculatum",
+              "Capsicum frutescens",
+              "Capsicum frutescens fasciculatum",
+              "Capsicum frutescens grossum",
+              "Capsicum frutescens longum",
+              "Capsicum globosum",
+              "Capsicum grossum",
+              "Capsicum hamiltonii",
+              "Capsicum longum",
+              "Capsicum milleri",
+              "Capsicum narunca",
+              "Capsicum nigrum",
+              "Capsicum olivaeforme",
+              "Capsicum petenense",
+              "Capsicum pomiferum",
+              "Capsicum purpureum",
+              "Capsicum silvestre",
+              "Capsicum sp. HD-HW",
+              "Capsicum sp. JYM-2013",
+              "Capsicum sphaerium",
+              "Capsicum tetragonum",
+              "Capsicum tomatiforme",
+              "Capsicum tournefortii",
+              "Capsicum violaceum"
+            ],
+            "tax_sources": [
+              "ncbi:4072",
+              "gbif:2932944",
+              "irmng:10204502"
+            ],
+            "unique_name": "Capsicum annuum"
+          }
+        }
+      ],
+      "name": "capsicum frutescens"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Carica papaya",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "carica papaya",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Carica papaya",
+            "ott_id": 429474,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Carica bourgeaei",
+              "Carica citriformis",
+              "Carica cubensis",
+              "Carica hermaphrodita",
+              "Carica jamaicensis",
+              "Carica jimenezii",
+              "Carica mamaya",
+              "Carica papaya bady",
+              "Carica papaya jimenezii",
+              "Carica papaya portoricensis",
+              "Carica peltata",
+              "Carica pinnatifida",
+              "Carica portoricensis",
+              "Carica posoposa",
+              "Carica rochefortii",
+              "Carica sativa",
+              "Papaya bourgeaei",
+              "Papaya carica",
+              "Papaya cimarrona",
+              "Papaya citriformis",
+              "Papaya communis",
+              "Papaya cubensis",
+              "Papaya cucumerina",
+              "Papaya edulis",
+              "Papaya hermaphrodita",
+              "Papaya papaya",
+              "Papaya peltata",
+              "Papaya rochefortii",
+              "Papaya sativa",
+              "Papaya vulgaris",
+              "Vasconcellea peltata"
+            ],
+            "tax_sources": [
+              "ncbi:3649",
+              "gbif:2874484",
+              "irmng:10591092"
+            ],
+            "unique_name": "Carica papaya"
+          }
+        }
+      ],
+      "name": "carica papaya"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Carludovica palmata",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "carludovica palmata",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Carludovica palmata",
+            "ott_id": 531477,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Carludovica gigantea",
+              "Carludovica humilis",
+              "Carludovica incisa",
+              "Carludovica jamaicensis",
+              "Carludovica palmata humilis",
+              "Carludovica serrata",
+              "Ludovia palmata",
+              "Salmia jamaicensis",
+              "Salmia palmata"
+            ],
+            "tax_sources": [
+              "ncbi:108411",
+              "gbif:2860922",
+              "irmng:10214167"
+            ],
+            "unique_name": "Carludovica palmata"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Carludovica palmata",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "carludovica palmata",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Asplundia insignis",
+            "ott_id": 1001153,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Carludovica caribaea",
+              "Carludovica insignis",
+              "Carludovica palmata"
+            ],
+            "tax_sources": [
+              "ncbi:1259854",
+              "gbif:2860963"
+            ],
+            "unique_name": "Asplundia insignis"
+          }
+        }
+      ],
+      "name": "carludovica palmata"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Catha edulis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "catha edulis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Catha edulis",
+            "ott_id": 282743,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Catha forskalii",
+              "Catha glauca",
+              "Catha inermis",
+              "Celastrus edulis",
+              "Celastrus tsaad",
+              "Dillonia abyssinica",
+              "Hartogia thea",
+              "Methyscophyllum glaucum",
+              "Trigonotheca serrata"
+            ],
+            "tax_sources": [
+              "ncbi:123405",
+              "gbif:7979745",
+              "irmng:10202236"
+            ],
+            "unique_name": "Catha edulis"
+          }
+        }
+      ],
+      "name": "catha edulis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Catharanthus roseus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "catharanthus roseus",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Catharanthus roseus",
+            "ott_id": 524094,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Ammocallis rosea",
+              "Lochnera rosea",
+              "Lochnera rosea flava",
+              "Pervinca rosea",
+              "Vinca gulielmi-waldemarii",
+              "Vinca rosea",
+              "Vinca rosea albiflora",
+              "Vinca speciosa"
+            ],
+            "tax_sources": [
+              "ncbi:4058",
+              "gbif:3169830",
+              "irmng:11252152"
+            ],
+            "unique_name": "Catharanthus roseus"
+          }
+        }
+      ],
+      "name": "catharanthus roseus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Cinnamomum verum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "cinnamomum verum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Cinnamomum verum",
+            "ott_id": 481247,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Cinnamomum antillarum",
+              "Cinnamomum aromaticum",
+              "Cinnamomum barthii",
+              "Cinnamomum bengalense",
+              "Cinnamomum biafranum",
+              "Cinnamomum bonplandii",
+              "Cinnamomum boutonii",
+              "Cinnamomum capense",
+              "Cinnamomum cayennense",
+              "Cinnamomum cinnamomum",
+              "Cinnamomum commersonii",
+              "Cinnamomum cordifolium",
+              "Cinnamomum decandollei",
+              "Cinnamomum delessertii",
+              "Cinnamomum ellipticum",
+              "Cinnamomum erectum",
+              "Cinnamomum humboldtii",
+              "Cinnamomum iners",
+              "Cinnamomum leschenaultii",
+              "Cinnamomum longifolium",
+              "Cinnamomum madrassicum",
+              "Cinnamomum mauritianum",
+              "Cinnamomum meissneri",
+              "Cinnamomum ovatum",
+              "Cinnamomum pallasii",
+              "Cinnamomum pleei",
+              "Cinnamomum pourretii",
+              "Cinnamomum regelii",
+              "Cinnamomum roxburghii",
+              "Cinnamomum sieberii",
+              "Cinnamomum sonneratii",
+              "Cinnamomum vaillantii",
+              "Cinnamomum variabile",
+              "Cinnamomum verum asperifolium",
+              "Cinnamomum verum chartaceum",
+              "Cinnamomum verum commune",
+              "Cinnamomum wolkensteinii",
+              "Cinnamomum zeylanicum",
+              "Cinnamomum zollingerii",
+              "Laurus cassia",
+              "Laurus cinnamifera",
+              "Laurus cinnamomea",
+              "Laurus cinnamomum",
+              "Laurus culitlaban",
+              "Laurus montana",
+              "Laurus rigida",
+              "Persea cinnamomum"
+            ],
+            "tax_sources": [
+              "ncbi:128608",
+              "gbif:3033987",
+              "irmng:10597110"
+            ],
+            "unique_name": "Cinnamomum verum"
+          }
+        }
+      ],
+      "name": "cinnamomum verum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Costus afer",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "costus afer",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Costus afer",
+            "ott_id": 353007,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Costus anomocalyx",
+              "Costus bingervillensis",
+              "Costus deistelii",
+              "Costus edulis",
+              "Costus insularis publ",
+              "Costus lucanusianus",
+              "Costus luteus",
+              "Costus megalobractea",
+              "Costus oblitterans",
+              "Costus pterometra",
+              "Costus sarmentosus",
+              "Costus subbiflorus",
+              "Costus trachyphyllus",
+              "Costus ulugurensis"
+            ],
+            "tax_sources": [
+              "ncbi:328752",
+              "gbif:2756876"
+            ],
+            "unique_name": "Costus afer"
+          }
+        }
+      ],
+      "name": "costus afer"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Cheilocostus speciosus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "cheilocostus speciosus",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Cheilocostus speciosus",
+            "ott_id": 251296,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Costus speciosus"
+            ],
+            "tax_sources": [
+              "ncbi:49577",
+              "irmng:11211701"
+            ],
+            "unique_name": "Cheilocostus speciosus (species in kingdom Archaeplastida)"
+          }
+        }
+      ],
+      "name": "cheilocostus speciosus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Crescentia cujete",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "crescentia cujete",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Crescentia cujete",
+            "ott_id": 593986,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Crescentia acuminata",
+              "Crescentia angustifolia",
+              "Crescentia arborea",
+              "Crescentia cujete puberula",
+              "Crescentia cuneifolia",
+              "Crescentia fasciculata",
+              "Crescentia latifolia",
+              "Crescentia plectantha",
+              "Crescentia pumila",
+              "Crescentia spathulata"
+            ],
+            "tax_sources": [
+              "ncbi:1125401",
+              "gbif:5415081",
+              "irmng:10890656"
+            ],
+            "unique_name": "Crescentia cujete"
+          }
+        }
+      ],
+      "name": "crescentia cujete"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Cycas circinalis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "cycas circinalis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Cycas circinalis",
+            "ott_id": 99243,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Cycas circinalis angustifolia",
+              "Cycas circinalis circinalis",
+              "Cycas circinalis vera",
+              "Cycas hamelini",
+              "Cycas kirkii",
+              "Cycas squarrosa",
+              "Cycas undulata",
+              "Cycas wallichii"
+            ],
+            "tax_sources": [
+              "ncbi:3397",
+              "gbif:2683264",
+              "irmng:10177213"
+            ],
+            "unique_name": "Cycas circinalis"
+          }
+        }
+      ],
+      "name": "cycas circinalis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Cyperus esculentus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "cyperus esculentus",
+          "taxon": {
+            "flags": [
+              "incertae_sedis"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Cyperus esculentus",
+            "ott_id": 362401,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Chlorocyperus aureus",
+              "Chlorocyperus esculentus",
+              "Chlorocyperus phymatodes",
+              "Cyperus aureus",
+              "Cyperus aureus esculentus",
+              "Cyperus bahiensis",
+              "Cyperus buchananii",
+              "Cyperus bulamensis",
+              "Cyperus callistus",
+              "Cyperus chrysostachys",
+              "Cyperus damiettensis",
+              "Cyperus esculentus angustispicatus",
+              "Cyperus esculentus aureus",
+              "Cyperus esculentus cyclolepis",
+              "Cyperus esculentus esculentus",
+              "Cyperus esculentus evolutus",
+              "Cyperus esculentus heermannii",
+              "Cyperus esculentus helodes",
+              "Cyperus esculentus leptostachyus",
+              "Cyperus esculentus lutescens",
+              "Cyperus esculentus macrostachyus",
+              "Cyperus esculentus phymatodes",
+              "Cyperus esculentus princeps",
+              "Cyperus esculentus sativus",
+              "Cyperus esculentus sprucei",
+              "Cyperus fresenii",
+              "Cyperus fulvescens",
+              "Cyperus gracilescens",
+              "Cyperus gracilis",
+              "Cyperus heermannii",
+              "Cyperus helodes",
+              "Cyperus hydra",
+              "Cyperus lutescens",
+              "Cyperus melanorhizus",
+              "Cyperus nervosus",
+              "Cyperus officinalis",
+              "Cyperus pallidus",
+              "Cyperus phymatodes",
+              "Cyperus phymatodes heermannii",
+              "Cyperus repens",
+              "Cyperus ruficomus",
+              "Cyperus scirpoides",
+              "Cyperus sieberianus",
+              "Cyperus tenoreanus",
+              "Cyperus tenorei",
+              "Cyperus tuberosus",
+              "Cyperus variabilis",
+              "Pterocyperus esculentus",
+              "Pycreus esculentus"
+            ],
+            "tax_sources": [
+              "ncbi:1053340",
+              "gbif:2716226",
+              "irmng:11092538"
+            ],
+            "unique_name": "Cyperus esculentus"
+          }
+        }
+      ],
+      "name": "cyperus esculentus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Cyperus papyrus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "cyperus papyrus",
+          "taxon": {
+            "flags": [
+              "incertae_sedis"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Cyperus papyrus",
+            "ott_id": 738914,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Chlorocyperus papyrus"
+            ],
+            "tax_sources": [
+              "ncbi:76434",
+              "gbif:2716311",
+              "irmng:11209777"
+            ],
+            "unique_name": "Cyperus papyrus"
+          }
+        }
+      ],
+      "name": "cyperus papyrus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Derris elliptica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "derris elliptica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Derris elliptica",
+            "ott_id": 170173,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Cylista piscatoria",
+              "Deguelia elliptica",
+              "Galactia termimaliflora",
+              "Galedupa elliptica",
+              "Millettia piscatoria",
+              "Millettia splendidissima",
+              "Paraderris elliptica",
+              "Pongamia elliptica",
+              "Pongamia volubilis"
+            ],
+            "tax_sources": [
+              "ncbi:56063",
+              "gbif:5350305",
+              "gbif:6403853",
+              "irmng:11303796"
+            ],
+            "unique_name": "Derris elliptica"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Derris elliptica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "derris elliptica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Derris ferruginea",
+            "ott_id": 815387,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Derris elliptica",
+              "Robinia ferruginea"
+            ],
+            "tax_sources": [
+              "ncbi:1225686",
+              "gbif:5350303",
+              "irmng:10855504"
+            ],
+            "unique_name": "Derris ferruginea"
+          }
+        }
+      ],
+      "name": "derris elliptica"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Elettaria cardamomum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "elettaria cardamomum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Elettaria cardamomum",
+            "ott_id": 792711,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Alpinia cardamomum",
+              "Amomum cardamomum",
+              "Amomum cardamon",
+              "Amomum ensal",
+              "Amomum uncinatum",
+              "Cardamomum elletari oppr",
+              "Cardamomum malabaricum",
+              "Cardamomum minus",
+              "Cardamomum officinale",
+              "Elettaria cardamomum minor",
+              "Elettaria cardamomum minuscula",
+              "Matonia cardamomum",
+              "Zingiber cardamomum",
+              "Zingiber minus"
+            ],
+            "tax_sources": [
+              "ncbi:105181",
+              "gbif:2759871",
+              "irmng:11334472"
+            ],
+            "unique_name": "Elettaria cardamomum"
+          }
+        }
+      ],
+      "name": "elettaria cardamomum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Elettaria ensal",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "elettaria ensal",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Elettaria ensal",
+            "ott_id": 3946932,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Elettaria cardamomum major",
+              "Elettaria cardamomum zeylanicum",
+              "Elettaria major",
+              "Zingiber ensal"
+            ],
+            "tax_sources": [
+              "gbif:2759860"
+            ],
+            "unique_name": "Elettaria ensal"
+          }
+        }
+      ],
+      "name": "elettaria ensal"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Erythroxylum coca",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "erythroxylum coca",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Erythroxylum coca",
+            "ott_id": 57960,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Erythroxylum bolivianum",
+              "Erythroxylum chilpei",
+              "Erythroxylum peruvianum"
+            ],
+            "tax_sources": [
+              "ncbi:289672",
+              "gbif:2873939",
+              "irmng:10953697"
+            ],
+            "unique_name": "Erythroxylum coca"
+          }
+        }
+      ],
+      "name": "erythroxylum coca"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Eucharis x grandiflora",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "eucharis x grandiflora",
+          "taxon": {
+            "flags": [
+              "hybrid"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": true,
+            "name": "Eucharis x grandiflora",
+            "ott_id": 3994239,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Eucharis grandiflora",
+              "Eucharis grandiflora lowii",
+              "Eucharis lowii",
+              "Eucharis mastersii",
+              "Eucharis moorei x Eucharis sanderi",
+              "Urceolina grandiflora",
+              "Urceolina lowii",
+              "Urceolina mastersii"
+            ],
+            "tax_sources": [
+              "ncbi:44989",
+              "gbif:5325597",
+              "irmng:10719041"
+            ],
+            "unique_name": "Eucharis x grandiflora"
+          }
+        }
+      ],
+      "name": "eucharis x grandiflora"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Eugenia uniflora",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "eugenia uniflora",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Eugenia uniflora",
+            "ott_id": 1001992,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Eugenia arechavaletae",
+              "Eugenia bergii",
+              "Eugenia costata",
+              "Eugenia dasyblasta",
+              "Eugenia decidua",
+              "Eugenia diaphana",
+              "Eugenia gracilipes",
+              "Eugenia lineatifolia",
+              "Eugenia michelii",
+              "Eugenia myrtifolia",
+              "Eugenia myrtifolia Salisb., 1796 non Eugenia myrtifolia Sims, 1821, nec Eugenia myrtifolia Roxb., 1832, nec Eugenia myrtifolia Cambess., 1833",
+              "Eugenia oblongifolia",
+              "Eugenia strigosa",
+              "Eugenia uniflora atropurpurea",
+              "Eugenia willdenowii",
+              "Eugenia zeylanica",
+              "Luma arechavaletae",
+              "Luma costata",
+              "Luma dasyblasta",
+              "Luma strigosa",
+              "Myrcia dasyblasta",
+              "Myrcia dasyblasta cordata",
+              "Myrcia dasyblasta ovata",
+              "Myrtus brasiliana",
+              "Myrtus brasiliana diversifolia",
+              "Myrtus brasiliana lanceolata",
+              "Myrtus brasiliana lucida",
+              "Myrtus brasiliana normalis",
+              "Myrtus willdenowii",
+              "Myrtus willdenowii portoriccensis",
+              "Plinia pedunculata",
+              "Plinia petiolata",
+              "Plinia rubra",
+              "Plinia tetrapetala",
+              "Stenocalyx affinis",
+              "Stenocalyx costatus",
+              "Stenocalyx dasyblastus",
+              "Stenocalyx glaber",
+              "Stenocalyx impunctatus",
+              "Stenocalyx lucidus",
+              "Stenocalyx michelii",
+              "Stenocalyx michelii membranacea",
+              "Stenocalyx michelii rigida",
+              "Stenocalyx oblongifolius",
+              "Stenocalyx rhampiri",
+              "Stenocalyx ruber",
+              "Stenocalyx strigosus",
+              "Stenocalyx uniflorus",
+              "Syzygium michelii"
+            ],
+            "tax_sources": [
+              "ncbi:119951",
+              "gbif:5416456",
+              "gbif:5416458"
+            ],
+            "unique_name": "Eugenia uniflora (species in kingdom Archaeplastida)"
+          }
+        }
+      ],
+      "name": "eugenia uniflora"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Ficus elastica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "ficus elastica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Ficus elastica",
+            "ott_id": 795604,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Ficus clusiifolia",
+              "Ficus cordata",
+              "Ficus elastica benghalensis",
+              "Ficus karet",
+              "Ficus skytinoderma",
+              "Ficus taeda",
+              "Macrophthalma elastica",
+              "Stilpnophyllum elasticum",
+              "Urostigma circumscissum",
+              "Urostigma elasticum",
+              "Urostigma elasticum latifolium",
+              "Urostigma karet",
+              "Urostigma odoratum",
+              "Visiania elastica"
+            ],
+            "tax_sources": [
+              "ncbi:182112",
+              "gbif:7835333",
+              "irmng:10203532"
+            ],
+            "unique_name": "Ficus elastica"
+          }
+        }
+      ],
+      "name": "ficus elastica"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Furcraea gigantea",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "furcraea gigantea",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Furcraea gigantea",
+            "ott_id": 643224,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Agave bulbosa",
+              "Agave commelyni",
+              "Agave foetida",
+              "Agave gigantea",
+              "Agave madagascariensis",
+              "Aloe foetida",
+              "Fourcroya gigantea",
+              "Funium piliferum",
+              "Furcraea atroviridis",
+              "Furcraea barillettii",
+              "Furcraea commelyni",
+              "Furcraea foetida",
+              "Furcraea foetida foetida",
+              "Furcraea gigantea mediopicta",
+              "Furcraea gigantea willemetiana",
+              "Furcraea madagascariensis",
+              "Furcraea viridis",
+              "Furcraea watsoniana"
+            ],
+            "tax_sources": [
+              "ncbi:59021",
+              "gbif:2769796",
+              "irmng:11060616"
+            ],
+            "unique_name": "Furcraea gigantea"
+          }
+        }
+      ],
+      "name": "furcraea gigantea"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Gossypium arboreum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "gossypium arboreum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Gossypium arboreum",
+            "ott_id": 625750,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "? soudanense",
+              "Gossypium arboreum cemuum",
+              "Gossypium arboreum cernuum",
+              "Gossypium arboreum indicum",
+              "Gossypium arboreum soudanense",
+              "Gossypium cernuum",
+              "Gossypium figarei",
+              "Gossypium gracile",
+              "Gossypium indicum",
+              "Gossypium intermedium",
+              "Gossypium nanking",
+              "Gossypium nanking soudanensis",
+              "Gossypium obtusifolium",
+              "Gossypium perennans",
+              "Gossypium rubicundum",
+              "Gossypium soudanense",
+              "Hibiscus purpurascens"
+            ],
+            "tax_sources": [
+              "ncbi:29729",
+              "gbif:3152663",
+              "irmng:10206018"
+            ],
+            "unique_name": "Gossypium arboreum"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Gossypium arboreum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "gossypium arboreum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Gossypium hirsutum",
+            "ott_id": 854480,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "? marie-galante",
+              "Gossypium acuminatum",
+              "Gossypium arboreum",
+              "Gossypium arboreum perenne",
+              "Gossypium arboreum vaupelii",
+              "Gossypium asiaticum",
+              "Gossypium auritum",
+              "Gossypium barbadense",
+              "Gossypium barbadense acuminatum",
+              "Gossypium barbadense brasiliense",
+              "Gossypium barbadense braziliense",
+              "Gossypium barbadense breve",
+              "Gossypium barbadense deltaicum",
+              "Gossypium barbadense eubarbadense",
+              "Gossypium barbadense hahnii",
+              "Gossypium barbadense hirsutum",
+              "Gossypium barbadense integrum",
+              "Gossypium barbadense marie-galante",
+              "Gossypium barbadense maritimum",
+              "Gossypium barbadense pedatum",
+              "Gossypium barbadense peruvianum",
+              "Gossypium barbadense suffruticosum",
+              "Gossypium barbadense typicum",
+              "Gossypium barbadense vitifolium",
+              "Gossypium birkinshawii",
+              "Gossypium brasiliense",
+              "Gossypium caespitosum",
+              "Gossypium calycotum",
+              "Gossypium convexum",
+              "Gossypium divaricatum",
+              "Gossypium ekmanianum",
+              "Gossypium elatum",
+              "Gossypium evertum",
+              "Gossypium frutescens",
+              "Gossypium frutescens maritimum",
+              "Gossypium fruticulosum",
+              "Gossypium fuscum",
+              "Gossypium glabrum",
+              "Gossypium guyanense",
+              "Gossypium guyanense braziliense",
+              "Gossypium harrisii",
+              "Gossypium herbaceum",
+              "Gossypium herbaceum hirsutum",
+              "Gossypium herbaceum religiosum",
+              "Gossypium hirsutum atrocoloratum",
+              "Gossypium hirsutum caespitosum",
+              "Gossypium hirsutum cavelsenii",
+              "Gossypium hirsutum hirsutum",
+              "Gossypium hirsutum jamaicense",
+              "Gossypium hirsutum lanceolatum",
+              "Gossypium hirsutum latifolium",
+              "Gossypium hirsutum marie-galante",
+              "Gossypium hirsutum mexicanum",
+              "Gossypium hirsutum micranthum",
+              "Gossypium hirsutum nervosum",
+              "Gossypium hirsutum palmeri",
+              "Gossypium hirsutum paniculatum",
+              "Gossypium hirsutum punctatum",
+              "Gossypium hirsutum religiosum",
+              "Gossypium hirsutum schottii",
+              "Gossypium hirsutum subsp. mexicanum",
+              "Gossypium hirsutum taitense",
+              "Gossypium hirsutum volubile",
+              "Gossypium hopi",
+              "Gossypium jamaicense",
+              "Gossypium jamaicense fruticulosum",
+              "Gossypium jamaicense janiphifolium",
+              "Gossypium jamaicense lanceolatum",
+              "Gossypium janiphifolium",
+              "Gossypium javanicum",
+              "Gossypium jumelianum",
+              "Gossypium lanceolatum",
+              "Gossypium lapideum",
+              "Gossypium lapideum acuminatum",
+              "Gossypium lapideum brasiliense",
+              "Gossypium latifolium",
+              "Gossypium latifolium paniculatum",
+              "Gossypium latifolium prostratum",
+              "Gossypium marie-galante",
+              "Gossypium maritimum",
+              "Gossypium maritimum jumelianum",
+              "Gossypium mexicanum",
+              "Gossypium micranthum",
+              "Gossypium morrillii",
+              "Gossypium multiglandulosum",
+              "Gossypium nervosum",
+              "Gossypium nicaraguense",
+              "Gossypium nigrum",
+              "Gossypium nigrum punctatum",
+              "Gossypium oligospermum",
+              "Gossypium pallens",
+              "Gossypium palmeri",
+              "Gossypium paniculatum",
+              "Gossypium pedatum",
+              "Gossypium perenne",
+              "Gossypium peruvianum",
+              "Gossypium prostratum",
+              "Gossypium pubescens",
+              "Gossypium punctatum",
+              "Gossypium punctatum jamaicense",
+              "Gossypium punctatum prostratum",
+              "Gossypium purpurascens",
+              "Gossypium purpurascens punctatum",
+              "Gossypium purpurascens religiosoides",
+              "Gossypium purpurascens taitense",
+              "Gossypium quinacre",
+              "Gossypium racemosum",
+              "Gossypium religiosum",
+              "Gossypium rohrianum",
+              "Gossypium schottii",
+              "Gossypium sericatum",
+              "Gossypium siamense",
+              "Gossypium suffruticosum",
+              "Gossypium taitense",
+              "Gossypium tricuspidatum jamaicense",
+              "Gossypium tricuspidatum oligospermum",
+              "Gossypium tridens",
+              "Gossypium vaupelii",
+              "Gossypium vitifolium",
+              "Gossypium volubile",
+              "Hibiscus barbadensis",
+              "Hibiscus barbadensis latifolius",
+              "Hibiscus deciduus",
+              "Hibiscus fruticulosus",
+              "Hibiscus oligospermus",
+              "Hibiscus racemosus",
+              "Hibiscus religiosus",
+              "Neogossypium barbadense",
+              "Xylon religiosum"
+            ],
+            "tax_sources": [
+              "ncbi:3635",
+              "gbif:3152661",
+              "gbif:3933540",
+              "irmng:11216558",
+              "irmng:10597697"
+            ],
+            "unique_name": "Gossypium hirsutum"
+          }
+        }
+      ],
+      "name": "gossypium arboreum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Guaiacum officinale",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "guaiacum officinale",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Guaiacum officinale",
+            "ott_id": 838052,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Guaiacum bijugum",
+              "Guajacum officinale"
+            ],
+            "tax_sources": [
+              "ncbi:374122",
+              "gbif:3986813",
+              "irmng:10214332"
+            ],
+            "unique_name": "Guaiacum officinale"
+          }
+        }
+      ],
+      "name": "guaiacum officinale"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Gynostemma pentaphyllum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "gynostemma pentaphyllum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Gynostemma pentaphyllum",
+            "ott_id": 493377,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Alsomitra cissoides",
+              "Enkylia digyna",
+              "Enkylia trigyna",
+              "Gynostemma blumei",
+              "Gynostemma cissoides",
+              "Gynostemma pedatum",
+              "Gynostemma pedatum hupehense",
+              "Gynostemma pedatum trifoliatum",
+              "Gynostemma siamicum",
+              "Pestalozzia pedata",
+              "Vitis mairei",
+              "Vitis martinii",
+              "Vitis pentaphylla",
+              "Vitis quelpaertensis",
+              "Zanonia cissoides",
+              "Zanonia pedata"
+            ],
+            "tax_sources": [
+              "ncbi:182084",
+              "gbif:7317960"
+            ],
+            "unique_name": "Gynostemma pentaphyllum"
+          }
+        }
+      ],
+      "name": "gynostemma pentaphyllum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Talipariti tiliaceum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "talipariti tiliaceum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Talipariti tiliaceum",
+            "ott_id": 120948,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "? tricuspe",
+              "Abelmoschus guineensis",
+              "Hibiscus abutiloides",
+              "Hibiscus boninensis",
+              "Hibiscus circinnatus",
+              "Hibiscus elatus",
+              "Hibiscus guineensis",
+              "Hibiscus tiliaceus",
+              "Hibiscus tiliaceus albiflorus",
+              "Hibiscus tiliaceus elatus",
+              "Hibiscus tiliaceus henryanus",
+              "Hibiscus tiliaceus immaculatus",
+              "Hibiscus tiliaceus purpurascens",
+              "Hibiscus tiliaceus sterilis",
+              "Hibiscus tiliaceus tiliaceus",
+              "Hibiscus tiliaceus tortuosus",
+              "Hibiscus tiliaceus typicus",
+              "Hibiscus tiliifolius",
+              "Hibiscus tortuosus",
+              "Parita tiliaceus",
+              "Pariti boninense",
+              "Pariti grande",
+              "Pariti tiliaceum",
+              "Pariti tiliaceum abortivum",
+              "Pariti tiliaceum albiflorum",
+              "Pariti tiliaceum foliis-tripartitis",
+              "Pariti tiliaceum immaculatum",
+              "Pariti tiliaceum trilobatum",
+              "Pariti tricuspe",
+              "Paritium abutiloides",
+              "Paritium circinnatum",
+              "Paritium guineense",
+              "Paritium purpurascens",
+              "Paritium tiliaceum",
+              "Paritium tiliifolium",
+              "Talipariti tiliaceaum",
+              "Talipariti tortuosum",
+              "Thespesia tiliaceum"
+            ],
+            "tax_sources": [
+              "ncbi:183267",
+              "worms:418728",
+              "gbif:7115794",
+              "irmng:10458642",
+              "irmng:10197580"
+            ],
+            "unique_name": "Talipariti tiliaceum"
+          }
+        }
+      ],
+      "name": "talipariti tiliaceum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Hylocereus undatus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "hylocereus undatus",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Hylocereus undatus",
+            "ott_id": 334881,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Cereus undatus",
+              "Hyalocereus undatus",
+              "Selenicereus undatus"
+            ],
+            "tax_sources": [
+              "ncbi:176265",
+              "gbif:3084394",
+              "irmng:11347246",
+              "irmng:11056630"
+            ],
+            "unique_name": "Hylocereus undatus"
+          }
+        }
+      ],
+      "name": "hylocereus undatus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Indigofera tinctoria",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "indigofera tinctoria",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Indigofera tinctoria",
+            "ott_id": 342886,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Indigofera bergii",
+              "Indigofera cinerascens",
+              "Indigofera houer",
+              "Indigofera indica",
+              "Indigofera oligophylla",
+              "Indigofera orthocarpa",
+              "Indigofera sumatrana",
+              "Indigofera tinctoria brachycarpa",
+              "Indigofera tinctoria macrocarpa",
+              "Indigofera tulearensis"
+            ],
+            "tax_sources": [
+              "ncbi:198914",
+              "gbif:2972043",
+              "irmng:11341819"
+            ],
+            "unique_name": "Indigofera tinctoria"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Indigofera tinctoria",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "indigofera tinctoria",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Indigofera pseudotinctoria",
+            "ott_id": 867537,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Indigofera bungeana",
+              "Indigofera tinctoria"
+            ],
+            "tax_sources": [
+              "ncbi:198904",
+              "gbif:2971650",
+              "irmng:10169678"
+            ],
+            "unique_name": "Indigofera pseudotinctoria"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Indigofera tinctoria",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "indigofera tinctoria",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Indigofera suffruticosa",
+            "ott_id": 1026205,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Indigofera angolensis",
+              "Indigofera anil",
+              "Indigofera argentea",
+              "Indigofera articulata",
+              "Indigofera bergii",
+              "Indigofera cinerascens",
+              "Indigofera comezuelo",
+              "Indigofera divaricata",
+              "Indigofera drepanocarpa",
+              "Indigofera guatimala",
+              "Indigofera houer",
+              "Indigofera indica",
+              "Indigofera micrantha",
+              "Indigofera oligophylla",
+              "Indigofera orthocarpa",
+              "Indigofera sumatrana",
+              "Indigofera tinctoria",
+              "Indigofera tulearensis",
+              "Indigofera uncinata"
+            ],
+            "tax_sources": [
+              "ncbi:100149",
+              "gbif:2971774",
+              "irmng:10172788"
+            ],
+            "unique_name": "Indigofera suffruticosa"
+          }
+        }
+      ],
+      "name": "indigofera tinctoria"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Jasminum sambac",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "jasminum sambac",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Jasminum sambac",
+            "ott_id": 295476,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Jasminum bicorollatum",
+              "Jasminum blancoi",
+              "Jasminum heyneanum",
+              "Jasminum odoratum",
+              "Jasminum pubescens",
+              "Jasminum quadrifolium",
+              "Jasminum quinqueflorum",
+              "Jasminum quinqueflorum pubescens",
+              "Jasminum sambac duplex",
+              "Jasminum sambac gimea",
+              "Jasminum sambac goaense",
+              "Jasminum sambac heyneanum",
+              "Jasminum sambac kerianum",
+              "Jasminum sambac nemocalyx",
+              "Jasminum sambac normale",
+              "Jasminum sambac plenum",
+              "Jasminum sambac syringifolium",
+              "Jasminum sambac trifoliatum",
+              "Jasminum sambac undulatum",
+              "Jasminum sambac verum",
+              "Jasminum sanjurium",
+              "Jasminum sanjurium publ",
+              "Jasminum trifoliatum",
+              "Jasminum undulatum",
+              "Jasminum zambac",
+              "Mogorium gimea",
+              "Mogorium goaense",
+              "Mogorium sambac",
+              "Mogorium undulatum",
+              "Nyctanthes goa",
+              "Nyctanthes sambac",
+              "Nyctanthes undulata"
+            ],
+            "tax_sources": [
+              "ncbi:660624",
+              "gbif:7587215",
+              "irmng:11103202"
+            ],
+            "unique_name": "Jasminum sambac"
+          }
+        }
+      ],
+      "name": "jasminum sambac"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Khaya senegalensis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "khaya senegalensis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Khaya senegalensis",
+            "ott_id": 923412,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Swietenia senegalensis"
+            ],
+            "tax_sources": [
+              "ncbi:587579",
+              "gbif:3190508",
+              "irmng:10857090"
+            ],
+            "unique_name": "Khaya senegalensis"
+          }
+        }
+      ],
+      "name": "khaya senegalensis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Leucaena",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "leucaena",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Leucaena",
+            "ott_id": 879022,
+            "rank": "genus",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Caudoleucaena",
+              "Ryncholeucaena"
+            ],
+            "tax_sources": [
+              "ncbi:3865",
+              "gbif:2970337",
+              "irmng:1314012"
+            ],
+            "unique_name": "Leucaena"
+          }
+        }
+      ],
+      "name": "leucaena"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Phyla dulcis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "phyla dulcis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Phyla dulcis",
+            "ott_id": 852644,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Lippia asperifolia",
+              "Lippia dulcis",
+              "Lippia dulcis mexicana",
+              "Phyla dulcus",
+              "Phyla scaberrima",
+              "Zappania scaberrima"
+            ],
+            "tax_sources": [
+              "ncbi:542674",
+              "gbif:2925416",
+              "irmng:10694424"
+            ],
+            "unique_name": "Phyla dulcis"
+          }
+        }
+      ],
+      "name": "phyla dulcis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Mangifera indica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "mangifera indica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Mangifera indica",
+            "ott_id": 807634,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Mangifera amba",
+              "Mangifera anisodora",
+              "Mangifera austro-yunnanensis",
+              "Mangifera domestica",
+              "Mangifera gladiata",
+              "Mangifera integrifolia",
+              "Mangifera kukula",
+              "Mangifera linnaei",
+              "Mangifera maritima",
+              "Mangifera mekongensis",
+              "Mangifera montana",
+              "Mangifera racemosa",
+              "Mangifera rostrata",
+              "Mangifera rubra",
+              "Mangifera sativa",
+              "Mangifera siamensis",
+              "Mangifera viridis"
+            ],
+            "tax_sources": [
+              "ncbi:29780",
+              "gbif:3190638",
+              "irmng:10201022"
+            ],
+            "unique_name": "Mangifera indica"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Mangifera indica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "mangifera indica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Mangifera foetida",
+            "ott_id": 422407,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Mangifera horsfieldii",
+              "Mangifera indica",
+              "Mangifera leschenaultii"
+            ],
+            "tax_sources": [
+              "ncbi:171935",
+              "gbif:3190640",
+              "irmng:11427926"
+            ],
+            "unique_name": "Mangifera foetida"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Mangifera indica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "mangifera indica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Mangifera sylvatica",
+            "ott_id": 847341,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Mangifera indica"
+            ],
+            "tax_sources": [
+              "ncbi:171944",
+              "gbif:3662046"
+            ],
+            "unique_name": "Mangifera sylvatica"
+          }
+        }
+      ],
+      "name": "mangifera indica"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Manihot esculenta",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "manihot esculenta",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Manihot esculenta",
+            "ott_id": 339369,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Janipha aipi",
+              "Janipha manihot",
+              "Jatropha aipi",
+              "Jatropha diffusa",
+              "Jatropha digitiformis",
+              "Jatropha dulcis",
+              "Jatropha flabellifolia",
+              "Jatropha glauca",
+              "Jatropha janipha",
+              "Jatropha lobata richardiana",
+              "Jatropha loureirii",
+              "Jatropha loureiroi",
+              "Jatropha manihot",
+              "Jatropha mitis",
+              "Jatropha paniculata",
+              "Jatropha silvestris",
+              "Jatropha stipulata",
+              "Mandioca aipi",
+              "Mandioca dulcis",
+              "Mandioca utilissima",
+              "Manihot aipi",
+              "Manihot aipi lanceolata",
+              "Manihot aipi latifolia",
+              "Manihot aipi lutescens",
+              "Manihot aypi",
+              "Manihot cannabina",
+              "Manihot cassava",
+              "Manihot diffusa",
+              "Manihot digitiformis",
+              "Manihot dulcis",
+              "Manihot dulcis aipi",
+              "Manihot dulcis diffusa",
+              "Manihot dulcis flabellifolia",
+              "Manihot edule",
+              "Manihot esculenta alboerecta",
+              "Manihot esculenta argentea",
+              "Manihot esculenta coalescens",
+              "Manihot esculenta communis",
+              "Manihot esculenta debilis",
+              "Manihot esculenta diffusa",
+              "Manihot esculenta digitifolia",
+              "Manihot esculenta domingensis",
+              "Manihot esculenta fertilis",
+              "Manihot esculenta flabellifolia",
+              "Manihot esculenta flavicaulis",
+              "Manihot esculenta fuscescens",
+              "Manihot esculenta grandifolia",
+              "Manihot esculenta hispaniolensis",
+              "Manihot esculenta jamaicensis",
+              "Manihot esculenta luteola",
+              "Manihot esculenta mutabilis",
+              "Manihot esculenta nodosa",
+              "Manihot esculenta pohlii",
+              "Manihot esculenta ramosissima",
+              "Manihot esculenta rufescens",
+              "Manihot esculenta sprucei",
+              "Manihot esculenta zimmermannii",
+              "Manihot flabellifolia",
+              "Manihot flexuosa",
+              "Manihot guianensis",
+              "Manihot guyanensis",
+              "Manihot loureirii",
+              "Manihot loureiroi",
+              "Manihot manihot",
+              "Manihot manihot publ",
+              "Manihot melanobasis",
+              "Manihot palmata aipi",
+              "Manihot palmata diffusa",
+              "Manihot palmata digitiformis",
+              "Manihot palmata flabellifolia",
+              "Manihot sprucei",
+              "Manihot surinamensis",
+              "Manihot utilissima",
+              "Manihot utilissima castellana",
+              "Manihot utilissima sutinga"
+            ],
+            "tax_sources": [
+              "ncbi:3983",
+              "gbif:3060998",
+              "irmng:11022519"
+            ],
+            "unique_name": "Manihot esculenta"
+          }
+        }
+      ],
+      "name": "manihot esculenta"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Morina longifolia",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "morina longifolia",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Morina longifolia",
+            "ott_id": 470594,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Morina elegans"
+            ],
+            "tax_sources": [
+              "ncbi:180562",
+              "gbif:8376167"
+            ],
+            "unique_name": "Morina longifolia"
+          }
+        }
+      ],
+      "name": "morina longifolia"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Bergera koenigii",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "bergera koenigii",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Bergera koenigii",
+            "ott_id": 321836,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Murraya koenigii"
+            ],
+            "tax_sources": [
+              "ncbi:159030",
+              "irmng:11305102"
+            ],
+            "unique_name": "Bergera koenigii"
+          }
+        }
+      ],
+      "name": "bergera koenigii"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Festuca paniculata",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "festuca paniculata",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Festuca paniculata",
+            "ott_id": 459586,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "? longiglumis",
+              "Anthoxanthum paniculatum",
+              "Drymonaetes arvernensis",
+              "Drymonaetes cebennensis",
+              "Drymonaetes cenisia",
+              "Drymonaetes jugicola",
+              "Drymonaetes notata",
+              "Drymonaetes redux",
+              "Drymonaetes similis",
+              "Drymonaetes stans",
+              "Drymonaetes vesula",
+              "Festuca anthoxanthia publ",
+              "Festuca aurea",
+              "Festuca bulbosa",
+              "Festuca caerulescens",
+              "Festuca caerulescens publ",
+              "Festuca compressa",
+              "Festuca consobrina",
+              "Festuca durandoi capillifolia",
+              "Festuca durandoi fontqueri",
+              "Festuca ferruginea",
+              "Festuca fibrosa",
+              "Festuca fleischeri publ",
+              "Festuca fusca",
+              "Festuca gigantea",
+              "Festuca montis-celtici",
+              "Festuca paniculata capillifolia",
+              "Festuca paniculata consobrina",
+              "Festuca paniculata fontqueri",
+              "Festuca paniculata longiglumis",
+              "Festuca paniculata macrostachys",
+              "Festuca paniculata multispiculata",
+              "Festuca paniculata paniculata",
+              "Festuca paniculata paui",
+              "Festuca paniculata spadicea",
+              "Festuca paradoxa",
+              "Festuca spadicea",
+              "Festuca spadicea aurea",
+              "Festuca spadicea capillifolia",
+              "Festuca spadicea cebennensis",
+              "Festuca spadicea consobrina",
+              "Festuca spadicea fallax",
+              "Festuca spadicea ferruginea",
+              "Festuca spadicea longiglumis",
+              "Patzkea durandoi capillifolia",
+              "Patzkea durandoi fontqueri",
+              "Patzkea paniculata",
+              "Patzkea paniculata longiglumis",
+              "Patzkea paniculata macrostachys",
+              "Patzkea paniculata multispiculata",
+              "Patzkea paniculata spadicea",
+              "Patzkea spadicea",
+              "Poa gerardii",
+              "Poa montana",
+              "Poa spadicea",
+              "Poa triflora",
+              "Schedonorus aureus",
+              "Schedonorus compressus",
+              "Schedonorus ferrugineus",
+              "Schedonorus spadiceus"
+            ],
+            "tax_sources": [
+              "ncbi:145848",
+              "gbif:4117958"
+            ],
+            "unique_name": "Festuca paniculata"
+          }
+        }
+      ],
+      "name": "festuca paniculata"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Musa acuminata",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "musa acuminata",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Musa acuminata",
+            "ott_id": 207474,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Musa AA Group",
+              "Musa acuminata AA Group",
+              "Musa cavendishii",
+              "Musa chinensis",
+              "Musa nana",
+              "Musa sapientum rio",
+              "Musa sinensis",
+              "Musa sp. 'Pisang lilin'",
+              "Musa zebrina"
+            ],
+            "tax_sources": [
+              "ncbi:4641",
+              "gbif:2762680",
+              "irmng:10208094"
+            ],
+            "unique_name": "Musa acuminata"
+          }
+        }
+      ],
+      "name": "musa acuminata"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Musa basjoo",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "musa basjoo",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Musa basjoo",
+            "ott_id": 842092,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [],
+            "tax_sources": [
+              "ncbi:133197",
+              "gbif:2762737"
+            ],
+            "unique_name": "Musa basjoo"
+          }
+        }
+      ],
+      "name": "musa basjoo"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Oryza sativa",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "oryza sativa",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Oryza sativa",
+            "ott_id": 709894,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Oryza aristata",
+              "Oryza communissima",
+              "Oryza formosana",
+              "Oryza glutinosa",
+              "Oryza montana",
+              "Oryza mutica",
+              "Oryza nepalensis",
+              "Oryza parviflora",
+              "Oryza perennis",
+              "Oryza plena",
+              "Oryza praecox",
+              "Oryza repens",
+              "Oryza sativa acutiligula",
+              "Oryza sativa adversoseluana",
+              "Oryza sativa affinis",
+              "Oryza sativa alaotrana",
+              "Oryza sativa alba",
+              "Oryza sativa allachabadica",
+              "Oryza sativa alterogoensis",
+              "Oryza sativa amaura",
+              "Oryza sativa anandica",
+              "Oryza sativa angusta",
+              "Oryza sativa anjanica",
+              "Oryza sativa anthropophaga",
+              "Oryza sativa aquatica",
+              "Oryza sativa aristata",
+              "Oryza sativa aristida",
+              "Oryza sativa aromatica",
+              "Oryza sativa assamica",
+              "Oryza sativa astaranica",
+              "Oryza sativa astarinica",
+              "Oryza sativa atra",
+              "Oryza sativa atricolorata",
+              "Oryza sativa atrobrunnea",
+              "Oryza sativa atrofusca",
+              "Oryza sativa atrogrisea",
+              "Oryza sativa atropurpurea",
+              "Oryza sativa aurica",
+              "Oryza sativa auriculata",
+              "Oryza sativa azerbaidjanica",
+              "Oryza sativa badia",
+              "Oryza sativa balatensis",
+              "Oryza sativa bandica",
+              "Oryza sativa bansica",
+              "Oryza sativa bansmatica",
+              "Oryza sativa bastica",
+              "Oryza sativa baumannii",
+              "Oryza sativa bawako-mochii",
+              "Oryza sativa bicolorata",
+              "Oryza sativa binamban",
+              "Oryza sativa birainica",
+              "Oryza sativa breviaristata",
+              "Oryza sativa brevindica",
+              "Oryza sativa brevis",
+              "Oryza sativa brjezitsky",
+              "Oryza sativa brunnea",
+              "Oryza sativa brunneopunctata",
+              "Oryza sativa calvescens",
+              "Oryza sativa caroliniana",
+              "Oryza sativa caspica",
+              "Oryza sativa castanea",
+              "Oryza sativa castroi",
+              "Oryza sativa catalonica",
+              "Oryza sativa caucasica",
+              "Oryza sativa ceylonica",
+              "Oryza sativa chambhanica",
+              "Oryza sativa chlamydantha",
+              "Oryza sativa chlorocarpa",
+              "Oryza sativa chrysocarpa",
+              "Oryza sativa cinnamomea",
+              "Oryza sativa communis",
+              "Oryza sativa costivorensis",
+              "Oryza sativa culinaris",
+              "Oryza sativa cyclina",
+              "Oryza sativa daloaensis",
+              "Oryza sativa denudata",
+              "Oryza sativa desvauxii",
+              "Oryza sativa dextrinosa",
+              "Oryza sativa dichroa",
+              "Oryza sativa dicolorata",
+              "Oryza sativa dubia",
+              "Oryza sativa dura",
+              "Oryza sativa eedeniana",
+              "Oryza sativa elegans",
+              "Oryza sativa elongata",
+              "Oryza sativa erythroceros",
+              "Oryza sativa falca-aurea",
+              "Oryza sativa fayoumensis",
+              "Oryza sativa ferganica",
+              "Oryza sativa ferruginea",
+              "Oryza sativa flagella",
+              "Oryza sativa flammea",
+              "Oryza sativa flammeorufa",
+              "Oryza sativa flavescens",
+              "Oryza sativa flaviseta",
+              "Oryza sativa flavoacies",
+              "Oryza sativa fluitans",
+              "Oryza sativa folia-villosa",
+              "Oryza sativa formosana",
+              "Oryza sativa formosica",
+              "Oryza sativa fuliginosa",
+              "Oryza sativa fuscescens",
+              "Oryza sativa garhwalica",
+              "Oryza sativa gilanica",
+              "Oryza sativa gilvaaristata",
+              "Oryza sativa gilvus",
+              "Oryza sativa glutinosa",
+              "Oryza sativa graeca",
+              "Oryza sativa guianensis",
+              "Oryza sativa haematelytra",
+              "Oryza sativa hasskarlii",
+              "Oryza sativa heuzeana",
+              "Oryza sativa homochroma",
+              "Oryza sativa indica",
+              "Oryza sativa indovialonica",
+              "Oryza sativa infera",
+              "Oryza sativa isabellica",
+              "Oryza sativa isochroa",
+              "Oryza sativa italica",
+              "Oryza sativa janthoceros",
+              "Oryza sativa japonica",
+              "Oryza sativa jarhanica",
+              "Oryza sativa javanica",
+              "Oryza sativa jorhatica",
+              "Oryza sativa kafirniganica",
+              "Oryza sativa kasakstanica",
+              "Oryza sativa katayevii",
+              "Oryza sativa kato-tolica",
+              "Oryza sativa keppii",
+              "Oryza sativa kissiensis",
+              "Oryza sativa kleiniana",
+              "Oryza sativa kolakovski",
+              "Oryza sativa kpelleana",
+              "Oryza sativa lamuyo",
+              "Oryza sativa lateritica",
+              "Oryza sativa lencoranica",
+              "Oryza sativa leucoceras",
+              "Oryza sativa limnicola",
+              "Oryza sativa longiglumis",
+              "Oryza sativa longior",
+              "Oryza sativa luzonica",
+              "Oryza sativa maldehica",
+              "Oryza sativa manensis",
+              "Oryza sativa manilensis",
+              "Oryza sativa marginata",
+              "Oryza sativa markovitchii",
+              "Oryza sativa masenderano",
+              "Oryza sativa mathiarica",
+              "Oryza sativa melanacra",
+              "Oryza sativa melanocarpa",
+              "Oryza sativa melanoceras",
+              "Oryza sativa melanodonta",
+              "Oryza sativa melanoglumella",
+              "Oryza sativa melanothrix",
+              "Oryza sativa mexicana",
+              "Oryza sativa microcarpa",
+              "Oryza sativa minantica",
+              "Oryza sativa miqueliana",
+              "Oryza sativa mitrai",
+              "Oryza sativa molesta",
+              "Oryza sativa montana",
+              "Oryza sativa movlanica",
+              "Oryza sativa mulayana",
+              "Oryza sativa mutica",
+              "Oryza sativa nahanica",
+              "Oryza sativa narmica",
+              "Oryza sativa nepalica",
+              "Oryza sativa nero-vialonica",
+              "Oryza sativa neroapiculata",
+              "Oryza sativa nguerzeana",
+              "Oryza sativa nigra",
+              "Oryza sativa nigrescens",
+              "Oryza sativa nigrispina",
+              "Oryza sativa nigropurpurea",
+              "Oryza sativa nigrouncinata",
+              "Oryza sativa nigroviolacea",
+              "Oryza sativa niponica",
+              "Oryza sativa notata",
+              "Oryza sativa nzoana",
+              "Oryza sativa obvasconcellosii",
+              "Oryza sativa ochracea",
+              "Oryza sativa ochrofusca",
+              "Oryza sativa oxyota",
+              "Oryza sativa pallida",
+              "Oryza sativa paraallchabadica",
+              "Oryza sativa paracastroi",
+              "Oryza sativa paracinnamomea",
+              "Oryza sativa paradaloaensis",
+              "Oryza sativa paraerythrocarpa",
+              "Oryza sativa paragoensis",
+              "Oryza sativa paraguianensis",
+              "Oryza sativa parajavanica",
+              "Oryza sativa paramutica",
+              "Oryza sativa paraovoidea",
+              "Oryza sativa paraphilippensis",
+              "Oryza sativa parasepica",
+              "Oryza sativa parazeravschanica",
+              "Oryza sativa parjattica",
+              "Oryza sativa parnellii",
+              "Oryza sativa parva",
+              "Oryza sativa peradenica",
+              "Oryza sativa persica",
+              "Oryza sativa phaneroleuca",
+              "Oryza sativa philippensis",
+              "Oryza sativa picta",
+              "Oryza sativa pilosa",
+              "Oryza sativa plena",
+              "Oryza sativa plumbea",
+              "Oryza sativa praecox",
+              "Oryza sativa pseudocinnamomea",
+              "Oryza sativa pseudodaloaensis",
+              "Oryza sativa pseudogoensis",
+              "Oryza sativa pseudoguineensis",
+              "Oryza sativa pseudojarhanica",
+              "Oryza sativa pseudolimnicola",
+              "Oryza sativa pseudomulayana",
+              "Oryza sativa pseudoovoidea",
+              "Oryza sativa pseudosepica",
+              "Oryza sativa pubescens",
+              "Oryza sativa pudica",
+              "Oryza sativa pygmaea",
+              "Oryza sativa pyrocarpa",
+              "Oryza sativa quinanda",
+              "Oryza sativa ramica",
+              "Oryza sativa ratoonica",
+              "Oryza sativa rhodosperma",
+              "Oryza sativa rubescens",
+              "Oryza sativa rubra",
+              "Oryza sativa rubribarbis",
+              "Oryza sativa rubriglumella",
+              "Oryza sativa rubrostellata",
+              "Oryza sativa rufibarbis",
+              "Oryza sativa rufibrunnea",
+              "Oryza sativa rufiglumella",
+              "Oryza sativa saginata",
+              "Oryza sativa sarica",
+              "Oryza sativa sathi-nigrescens",
+              "Oryza sativa savannae",
+              "Oryza sativa saxenii",
+              "Oryza sativa seulica",
+              "Oryza sativa sickenbergeri",
+              "Oryza sativa sitapurica",
+              "Oryza sativa soneszardica",
+              "Oryza sativa sordida",
+              "Oryza sativa sorgoidea",
+              "Oryza sativa spontanea",
+              "Oryza sativa striata",
+              "Oryza sativa subalba",
+              "Oryza sativa subamaura",
+              "Oryza sativa subastarinica",
+              "Oryza sativa subazerbaidjanica",
+              "Oryza sativa subbrunea",
+              "Oryza sativa subdichroa",
+              "Oryza sativa suberythroceros",
+              "Oryza sativa subflavoacies",
+              "Oryza sativa subjanthoceros",
+              "Oryza sativa subjarhanica",
+              "Oryza sativa subleucoceros",
+              "Oryza sativa submasenderano",
+              "Oryza sativa submelanotrix",
+              "Oryza sativa submovlanica",
+              "Oryza sativa submutica",
+              "Oryza sativa subpyrocarpa",
+              "Oryza sativa subratoonica",
+              "Oryza sativa subsubulata",
+              "Oryza sativa subvavilovii",
+              "Oryza sativa subvulgaris",
+              "Oryza sativa subzomica",
+              "Oryza sativa sultanpurica",
+              "Oryza sativa taurina",
+              "Oryza sativa tawnica",
+              "Oryza sativa tcharinica",
+              "Oryza sativa terrestris",
+              "Oryza sativa trichoviolacea",
+              "Oryza sativa usitatissima",
+              "Oryza sativa ussurica",
+              "Oryza sativa utilissima",
+              "Oryza sativa vavilovii",
+              "Oryza sativa violacea",
+              "Oryza sativa violapunctata",
+              "Oryza sativa violeobrevis",
+              "Oryza sativa viridescens",
+              "Oryza sativa vulgaris",
+              "Oryza sativa wightiana",
+              "Oryza sativa xanthoxeros",
+              "Oryza sativa zeravschanica",
+              "Oryza sativa zhukovskii",
+              "Oryza sativa zomica",
+              "Oryza segetalis"
+            ],
+            "tax_sources": [
+              "ncbi:4530",
+              "gbif:2703459",
+              "irmng:10706953"
+            ],
+            "unique_name": "Oryza sativa"
+          }
+        }
+      ],
+      "name": "oryza sativa"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Passiflora quadrangularis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "passiflora quadrangularis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Passiflora quadrangularis",
+            "ott_id": 530194,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Granadilla quadrangularis",
+              "Passiflora grandiflora",
+              "Passiflora hulletti",
+              "Passiflora macrocarpa",
+              "Passiflora quadrangularis variegata",
+              "Passiflora sulcata",
+              "Passiflora tetragona"
+            ],
+            "tax_sources": [
+              "ncbi:3685",
+              "gbif:2874183",
+              "irmng:10907914"
+            ],
+            "unique_name": "Passiflora quadrangularis"
+          }
+        }
+      ],
+      "name": "passiflora quadrangularis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Paullinia cupana",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "paullinia cupana",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Paullinia cupana",
+            "ott_id": 648094,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [],
+            "tax_sources": [
+              "ncbi:392747",
+              "gbif:3189949",
+              "irmng:10941229"
+            ],
+            "unique_name": "Paullinia cupana"
+          }
+        }
+      ],
+      "name": "paullinia cupana"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Payena leerii",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "payena leerii",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Payena leerii",
+            "ott_id": 3900597,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Azaola leerii",
+              "Ceratophorus leerii",
+              "Hapaloceras arupa",
+              "Hapaloceras leerii",
+              "Isonandra benjamina",
+              "Isonandra lamponga",
+              "Keratephorus leerii",
+              "Madhuca leerii",
+              "Payena benjamina",
+              "Payena croixiana",
+              "Payena lamponga"
+            ],
+            "tax_sources": [
+              "ncbi:1524318",
+              "gbif:2883593",
+              "irmng:10696334"
+            ],
+            "unique_name": "Payena leerii"
+          }
+        }
+      ],
+      "name": "payena leerii"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Persea americana",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "persea americana",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Persea americana",
+            "ott_id": 913249,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Laurus persea",
+              "Persea americana angustifolia",
+              "Persea americana drymifolia",
+              "Persea americana floccosa",
+              "Persea americana guatemalensis",
+              "Persea americana leiogyna",
+              "Persea americana nubigena",
+              "Persea americana steyermarkii",
+              "Persea americana tolimanensis",
+              "Persea americana zentmyeri",
+              "Persea americanum",
+              "Persea drymifolia",
+              "Persea edulis",
+              "Persea floccosa",
+              "Persea gigantea",
+              "Persea gratissima",
+              "Persea gratissima drymifolia",
+              "Persea gratissima macrophylla",
+              "Persea gratissima oblonga",
+              "Persea gratissima praecox",
+              "Persea leiogyna",
+              "Persea macrocarpa",
+              "Persea nubigena",
+              "Persea nubigena guatemalensis",
+              "Persea paucitriplinervia",
+              "Persea persea",
+              "Persea praecox",
+              "Persea steyermarkii",
+              "Persea tolimanensis",
+              "Persea zentmyeri"
+            ],
+            "tax_sources": [
+              "ncbi:3435",
+              "gbif:3034046",
+              "irmng:11326304"
+            ],
+            "unique_name": "Persea americana"
+          }
+        }
+      ],
+      "name": "persea americana"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Persicaria odorata",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "persicaria odorata",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Persicaria odorata",
+            "ott_id": 628619,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Polygonum odoratum"
+            ],
+            "tax_sources": [
+              "ncbi:580473",
+              "gbif:4033932"
+            ],
+            "unique_name": "Persicaria odorata"
+          }
+        }
+      ],
+      "name": "persicaria odorata"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Physalis peruviana",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "physalis peruviana",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Physalis peruviana",
+            "ott_id": 950227,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Alkekengi pubescens",
+              "Boberella peruviana",
+              "Herschelia edulis",
+              "Physalis barbadensis",
+              "Physalis bulbosa",
+              "Physalis chenopodifolia",
+              "Physalis edulis",
+              "Physalis esculenta",
+              "Physalis incana",
+              "Physalis latifolia",
+              "Physalis peruviana esculenta",
+              "Physalis peruviana latifolia",
+              "Physalis puberula",
+              "Physalis pubescens",
+              "Physalis tomentosa",
+              "Physalis tuberosa"
+            ],
+            "tax_sources": [
+              "ncbi:126903",
+              "gbif:5341784",
+              "irmng:10207096"
+            ],
+            "unique_name": "Physalis peruviana"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Physalis peruviana",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "physalis peruviana",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Nicandra physalodes",
+            "ott_id": 232472,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Atropa daturifolia",
+              "Atropa physalodes",
+              "Boberella nicandra",
+              "Calydermos erosus",
+              "Nicandra brevicorollata",
+              "Nicandra macrocalyx",
+              "Nicandra minor",
+              "Nicandra nana",
+              "Nicandra nebulosa",
+              "Nicandra parvimaculata",
+              "Nicandra physalodes violacea",
+              "Nicandra physaloides",
+              "Nicandra undulata",
+              "Nicandra violacea",
+              "Pentagonia physalodes",
+              "Physalis daturifolia",
+              "Physalis peruviana",
+              "Physalodes peruviana",
+              "Physalodes physalodes"
+            ],
+            "tax_sources": [
+              "ncbi:33118",
+              "gbif:5341754",
+              "irmng:10206781"
+            ],
+            "unique_name": "Nicandra physalodes"
+          }
+        }
+      ],
+      "name": "physalis peruviana"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Piper betle",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "piper betle",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Piper betle",
+            "ott_id": 588609,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Artanthe hexagyna",
+              "Betela mastica",
+              "Chavica auriculata",
+              "Chavica betle",
+              "Chavica blumei",
+              "Chavica chawya",
+              "Chavica chuvya",
+              "Chavica densa",
+              "Chavica siriboa",
+              "Cubeba melamiri",
+              "Cubeba seriboa",
+              "Macropiper potamogetonifolium",
+              "Piper anisodorum",
+              "Piper bathicarpum",
+              "Piper betel",
+              "Piper betle densum",
+              "Piper betle fenixii",
+              "Piper betle macgregorii",
+              "Piper betle mariannum",
+              "Piper betle marianum",
+              "Piper betle siriboa",
+              "Piper bidentatum",
+              "Piper blumei",
+              "Piper carnistilum",
+              "Piper chawya",
+              "Piper chuvya",
+              "Piper densum",
+              "Piper fenixii",
+              "Piper macgregorii",
+              "Piper malamiris",
+              "Piper malarayatense",
+              "Piper marianum",
+              "Piper philippinense",
+              "Piper pinguispicum",
+              "Piper potamogetonifolium",
+              "Piper puberulinodum",
+              "Piper rubroglandulosum",
+              "Piper saururus",
+              "Piper siriboa",
+              "Piperi betlum"
+            ],
+            "tax_sources": [
+              "ncbi:13217",
+              "gbif:4185172",
+              "gbif:4187904",
+              "irmng:10212694"
+            ],
+            "unique_name": "Piper betle"
+          }
+        }
+      ],
+      "name": "piper betle"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Piper longum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "piper longum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Piper longum",
+            "ott_id": 97780,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Chavica longa",
+              "Chavica roxburghii",
+              "Chavica sarmentosa",
+              "Piper latifolium",
+              "Piper roxburghii",
+              "Piper sarmentosum",
+              "Piper turbinatum"
+            ],
+            "tax_sources": [
+              "ncbi:49511",
+              "gbif:3086338",
+              "irmng:11179999"
+            ],
+            "unique_name": "Piper longum"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Piper longum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "piper longum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Piper retrofractum",
+            "ott_id": 505281,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Chavica celtidiformis",
+              "Chavica chaba",
+              "Chavica hainana",
+              "Chavica labillardieri",
+              "Chavica maritima",
+              "Chavica officinarum",
+              "Chavica parvifolia",
+              "Chavica peepuloides",
+              "Chavica retrofracta",
+              "Cubeba chaba",
+              "Piper arnottianum",
+              "Piper callosum",
+              "Piper chaba",
+              "Piper longum",
+              "Piper maritimum",
+              "Piper officinarum",
+              "Piper palawanum",
+              "Piper parvifolium",
+              "Steffensia carpunya"
+            ],
+            "tax_sources": [
+              "ncbi:130414",
+              "gbif:3086342",
+              "gbif:8220527",
+              "irmng:10212696"
+            ],
+            "unique_name": "Piper retrofractum"
+          }
+        }
+      ],
+      "name": "piper longum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Piper retrofractum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "piper retrofractum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Piper retrofractum",
+            "ott_id": 505281,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Chavica celtidiformis",
+              "Chavica chaba",
+              "Chavica hainana",
+              "Chavica labillardieri",
+              "Chavica maritima",
+              "Chavica officinarum",
+              "Chavica parvifolia",
+              "Chavica peepuloides",
+              "Chavica retrofracta",
+              "Cubeba chaba",
+              "Piper arnottianum",
+              "Piper callosum",
+              "Piper chaba",
+              "Piper longum",
+              "Piper maritimum",
+              "Piper officinarum",
+              "Piper palawanum",
+              "Piper parvifolium",
+              "Steffensia carpunya"
+            ],
+            "tax_sources": [
+              "ncbi:130414",
+              "gbif:3086342",
+              "gbif:8220527",
+              "irmng:10212696"
+            ],
+            "unique_name": "Piper retrofractum"
+          }
+        }
+      ],
+      "name": "piper retrofractum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Plectranthus amboinicus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "plectranthus amboinicus",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Plectranthus amboinicus",
+            "ott_id": 802926,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Coleus amboinicus",
+              "Coleus amboinicus violaceus",
+              "Coleus aromaticus",
+              "Coleus carnosus",
+              "Coleus crassifolius",
+              "Coleus subfrutectosus",
+              "Coleus suborbicularis",
+              "Coleus suganda",
+              "Coleus vaalae",
+              "Majana amboinica",
+              "Majana carnosa",
+              "Majana suganda",
+              "Ocimum vaalae"
+            ],
+            "tax_sources": [
+              "ncbi:204180",
+              "gbif:5341313",
+              "irmng:10207989"
+            ],
+            "unique_name": "Plectranthus amboinicus"
+          }
+        }
+      ],
+      "name": "plectranthus amboinicus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Pogostemon cablin",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "pogostemon cablin",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Pogostemon cablin",
+            "ott_id": 595162,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Mentha cablin",
+              "Pogostemon battakianus",
+              "Pogostemon comosus",
+              "Pogostemon heyneanus patchouly",
+              "Pogostemon javanicus",
+              "Pogostemon mollis",
+              "Pogostemon patchouly",
+              "Pogostemon suavis",
+              "Pogostemon tomentosus"
+            ],
+            "tax_sources": [
+              "ncbi:28511",
+              "gbif:2926672",
+              "irmng:10201954"
+            ],
+            "unique_name": "Pogostemon cablin"
+          }
+        }
+      ],
+      "name": "pogostemon cablin"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Psidium cattleyanum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "psidium cattleyanum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Psidium cattleyanum",
+            "ott_id": 807037,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Psidium cattleianum"
+            ],
+            "tax_sources": [
+              "ncbi:375274"
+            ],
+            "unique_name": "Psidium cattleyanum"
+          }
+        }
+      ],
+      "name": "psidium cattleyanum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Psychotria bacteriophila",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "psychotria bacteriophila",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Psychotria bacteriophila",
+            "ott_id": 296267,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [],
+            "tax_sources": [
+              "ncbi:29800"
+            ],
+            "unique_name": "Psychotria bacteriophila"
+          }
+        }
+      ],
+      "name": "psychotria bacteriophila"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Rivina humilis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "rivina humilis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Rivina humilis",
+            "ott_id": 740446,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Phytolacca latbenia",
+              "Piercea acuminata",
+              "Piercea glabra",
+              "Piercea obliquata",
+              "Piercea tomentosa",
+              "Rivina aurantiaca",
+              "Rivina brasiliensis",
+              "Rivina canescens",
+              "Rivina glabrata",
+              "Rivina gracilis",
+              "Rivina herbacea",
+              "Rivina humilis bracteata",
+              "Rivina humilis canescens",
+              "Rivina humilis glabra",
+              "Rivina humilis laevis",
+              "Rivina humilis orientalis",
+              "Rivina humilis plumbaginifolia",
+              "Rivina humilis puberula",
+              "Rivina laevis",
+              "Rivina laevis acuminata",
+              "Rivina laevis pubescens",
+              "Rivina lanceolata",
+              "Rivina latbenia",
+              "Rivina mexicana",
+              "Rivina obliquata",
+              "Rivina orientalis",
+              "Rivina pallida",
+              "Rivina paraguayensis",
+              "Rivina plumbaginifolia",
+              "Rivina portulaccoides",
+              "Rivina procumbens",
+              "Rivina puberula",
+              "Rivina purpurascens",
+              "Rivina tetrandra",
+              "Rivina tinctaria",
+              "Rivina tinctoria",
+              "Rivina vernalis",
+              "Rivina viridiflora",
+              "Rivina viridis",
+              "Rivinia humilis",
+              "Solanoides laevis",
+              "Solanoides pubescens",
+              "Solanoides undulata",
+              "Tithonia humilis",
+              "Tithonia humilis albiflora",
+              "Tithonia humilis glabra",
+              "Tithonia humilis humilis",
+              "Tithonia humilis purpurascens"
+            ],
+            "tax_sources": [
+              "ncbi:3533",
+              "worms:418676",
+              "gbif:3084027",
+              "irmng:10194853"
+            ],
+            "unique_name": "Rivina humilis"
+          }
+        }
+      ],
+      "name": "rivina humilis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Rungia klossii",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "rungia klossii",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Rungia klossii",
+            "ott_id": 983569,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [],
+            "tax_sources": [
+              "ncbi:141331",
+              "gbif:3780376"
+            ],
+            "unique_name": "Rungia klossii"
+          }
+        }
+      ],
+      "name": "rungia klossii"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Saccharum officinarum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "saccharum officinarum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Saccharum officinarum",
+            "ott_id": 1079465,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Arundo saccharifera oppr",
+              "Saccharum atrorubens",
+              "Saccharum bataviense",
+              "Saccharum fragile",
+              "Saccharum glabrum",
+              "Saccharum hybridum",
+              "Saccharum infirmum",
+              "Saccharum luzonicum",
+              "Saccharum maddenii",
+              "Saccharum monandrum",
+              "Saccharum obscurum",
+              "Saccharum occidentale",
+              "Saccharum officinale",
+              "Saccharum officinarum atrorubens",
+              "Saccharum officinarum brevipedicellatum",
+              "Saccharum officinarum fragile",
+              "Saccharum officinarum fragile-variegatum",
+              "Saccharum officinarum genuinum",
+              "Saccharum officinarum giganteum",
+              "Saccharum officinarum glabrum",
+              "Saccharum officinarum jamaicense",
+              "Saccharum officinarum litteratum",
+              "Saccharum officinarum litteratum-breve",
+              "Saccharum officinarum luridum",
+              "Saccharum officinarum luteum-durum",
+              "Saccharum officinarum luzonicum",
+              "Saccharum officinarum obscurum",
+              "Saccharum officinarum oceanica",
+              "Saccharum officinarum oceanicum",
+              "Saccharum officinarum otaheitensa",
+              "Saccharum officinarum otaheitense",
+              "Saccharum officinarum purpureum",
+              "Saccharum officinarum rubicundum",
+              "Saccharum officinarum rubrum-altum",
+              "Saccharum officinarum rubrum-humile",
+              "Saccharum officinarum tahitense",
+              "Saccharum officinarum variegatum",
+              "Saccharum officinarum violaceum",
+              "Saccharum rubicundum",
+              "Saccharum spontaneum luzonicum",
+              "Saccharum violaceum"
+            ],
+            "tax_sources": [
+              "ncbi:4547",
+              "gbif:2703912",
+              "irmng:11009492"
+            ],
+            "unique_name": "Saccharum officinarum"
+          }
+        }
+      ],
+      "name": "saccharum officinarum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Salvia divinorum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "salvia divinorum",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Salvia divinorum",
+            "ott_id": 595171,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [],
+            "tax_sources": [
+              "ncbi:28513",
+              "gbif:2927020",
+              "irmng:10587955"
+            ],
+            "unique_name": "Salvia divinorum"
+          }
+        }
+      ],
+      "name": "salvia divinorum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Sansevieria longiflora",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "sansevieria longiflora",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Sansevieria longiflora",
+            "ott_id": 3995425,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Acyntha longiflora"
+            ],
+            "tax_sources": [
+              "gbif:2770641",
+              "irmng:10588109"
+            ],
+            "unique_name": "Sansevieria longiflora"
+          }
+        }
+      ],
+      "name": "sansevieria longiflora"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Sansevieria trifasciata",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "sansevieria trifasciata",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Sansevieria trifasciata",
+            "ott_id": 497827,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Sansevieria jacquinii",
+              "Sansevieria laurentii",
+              "Sansevieria trifasciata laurentii",
+              "Sansevieria zeylanica laurentii"
+            ],
+            "tax_sources": [
+              "ncbi:39534",
+              "gbif:2770610",
+              "irmng:11355963"
+            ],
+            "unique_name": "Sansevieria trifasciata"
+          }
+        }
+      ],
+      "name": "sansevieria trifasciata"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Senna alexandrina",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "senna alexandrina",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Senna alexandrina",
+            "ott_id": 822192,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Cassia acutifolia",
+              "Cassia alexandrina",
+              "Cassia angustifolia",
+              "Cassia lanceolata",
+              "Cassia senna",
+              "Senna acutifolia",
+              "Senna angustifolia"
+            ],
+            "tax_sources": [
+              "ncbi:72402",
+              "gbif:2958032",
+              "irmng:10177787"
+            ],
+            "unique_name": "Senna alexandrina"
+          }
+        }
+      ],
+      "name": "senna alexandrina"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Senna siamea",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "senna siamea",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Senna siamea",
+            "ott_id": 859861,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Cassia arayatensis",
+              "Cassia arborea",
+              "Cassia florida",
+              "Cassia gigantea",
+              "Cassia siamea",
+              "Cassia siamea puberula",
+              "Cassia sumatrana",
+              "Chamaefistula gigantea",
+              "Sciacassia siamea",
+              "Senna sumatrana"
+            ],
+            "tax_sources": [
+              "ncbi:346999",
+              "gbif:2956905",
+              "gbif:8863339",
+              "irmng:10175898"
+            ],
+            "unique_name": "Senna siamea"
+          }
+        }
+      ],
+      "name": "senna siamea"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Serenoa repens",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "serenoa repens",
+          "taxon": {
+            "flags": [
+              "incertae_sedis_inherited"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Serenoa repens",
+            "ott_id": 71637,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Brahea serrulata",
+              "Chamaerops serrulata",
+              "Corypha obliqua",
+              "Corypha repens",
+              "Diglossophyllum serrulatum",
+              "Sabal dealbata",
+              "Sabal dealbata hort.ex Standl., 1917",
+              "Sabal serrulata",
+              "Serenoa repens glauca",
+              "Serenoa serrulata"
+            ],
+            "tax_sources": [
+              "ncbi:4722",
+              "worms:418802",
+              "gbif:2735055",
+              "irmng:11440689"
+            ],
+            "unique_name": "Serenoa repens"
+          }
+        }
+      ],
+      "name": "serenoa repens"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Solanum betaceum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "solanum betaceum",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Solanum betaceum",
+            "ott_id": 590315,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Cyphomandra betacea",
+              "Cyphomandra crassicaulis",
+              "Cyphomandra crassifolia",
+              "Cyphomandra procera",
+              "Pionandra betacea",
+              "Solanum crassifolium",
+              "Solanum insigne",
+              "Solanum obliquum"
+            ],
+            "tax_sources": [
+              "ncbi:45843",
+              "gbif:2930216",
+              "irmng:10974753"
+            ],
+            "unique_name": "Solanum betaceum"
+          }
+        }
+      ],
+      "name": "solanum betaceum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Solanum quitoense",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "solanum quitoense",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Solanum quitoense",
+            "ott_id": 835548,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Solanum angulatum",
+              "Solanum macrocarpon",
+              "Solanum nollanum",
+              "Solanum quitense",
+              "Solanum quitoense septentrionale",
+              "Solanum quito\u00ebnse"
+            ],
+            "tax_sources": [
+              "ncbi:227725",
+              "gbif:6403105",
+              "irmng:10204498"
+            ],
+            "unique_name": "Solanum quitoense"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Solanum quito\u00ebnse",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "solanum quitoense",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Solanum quitoense",
+            "ott_id": 835548,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Solanum angulatum",
+              "Solanum macrocarpon",
+              "Solanum nollanum",
+              "Solanum quitense",
+              "Solanum quitoense septentrionale",
+              "Solanum quito\u00ebnse"
+            ],
+            "tax_sources": [
+              "ncbi:227725",
+              "gbif:6403105",
+              "irmng:10204498"
+            ],
+            "unique_name": "Solanum quitoense"
+          }
+        }
+      ],
+      "name": "solanum quitoense"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Stevia rebaudiana",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "stevia rebaudiana",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Stevia rebaudiana",
+            "ott_id": 218148,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Eupatorium rebaudianum"
+            ],
+            "tax_sources": [
+              "ncbi:55670",
+              "gbif:3125557",
+              "irmng:11018304"
+            ],
+            "unique_name": "Stevia rebaudiana"
+          }
+        }
+      ],
+      "name": "stevia rebaudiana"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Strophanthus gratus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "strophanthus gratus",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Strophanthus gratus",
+            "ott_id": 536684,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Nerium guineense",
+              "Roupalia grata",
+              "Roupellia grata",
+              "Strophanthus choprae",
+              "Strophanthus glaber",
+              "Strophanthus ouaboio",
+              "Strophanthus perrotii",
+              "Strophanthus stanleyanus"
+            ],
+            "tax_sources": [
+              "ncbi:141614",
+              "gbif:8685745",
+              "irmng:10587706"
+            ],
+            "unique_name": "Strophanthus gratus"
+          }
+        }
+      ],
+      "name": "strophanthus gratus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Strophanthus hispidus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "strophanthus hispidus",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Strophanthus hispidus",
+            "ott_id": 3870700,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Strophanthus bariba",
+              "Strophanthus hirtus",
+              "Strophanthus hispidus bosere",
+              "Strophanthus hispidus latistigmatica",
+              "Strophanthus hispidus lobatistigmatica",
+              "Strophanthus hispidus parvistigmatica",
+              "Strophanthus hispidus seidenii",
+              "Strophanthus niger",
+              "Strophanthus tchabe",
+              "Strophanthus thierryanus"
+            ],
+            "tax_sources": [
+              "ncbi:2605637",
+              "gbif:3169609",
+              "irmng:11431033"
+            ],
+            "unique_name": "Strophanthus hispidus"
+          }
+        }
+      ],
+      "name": "strophanthus hispidus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Syzygium jambos",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "syzygium jambos",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Syzygium jambos",
+            "ott_id": 731939,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Eugenia decora",
+              "Eugenia jamboides",
+              "Eugenia jambos",
+              "Eugenia jambos sylvatica",
+              "Eugenia jambosa",
+              "Eugenia jamboscensis",
+              "Eugenia malaccensis",
+              "Eugenia monantha",
+              "Eugenia vulgaris",
+              "Jambosa jambos",
+              "Jambosa palembanica",
+              "Jambosa vulgaris",
+              "Myrtus jambos",
+              "Plinia jambos",
+              "Syzygium jambos linearilimbum",
+              "Syzygium jambos sylvaticum",
+              "Syzygium merrillii",
+              "Syzygium monanthum"
+            ],
+            "tax_sources": [
+              "ncbi:334483",
+              "gbif:3183534"
+            ],
+            "unique_name": "Syzygium jambos"
+          }
+        }
+      ],
+      "name": "syzygium jambos"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Thevetia peruviana",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "thevetia peruviana",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Thevetia peruviana",
+            "ott_id": 851162,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Cascabela thevetia",
+              "Cerbera thevetia",
+              "Thevetia neriifolia"
+            ],
+            "tax_sources": [
+              "ncbi:52862",
+              "gbif:7813493",
+              "irmng:11129284"
+            ],
+            "unique_name": "Thevetia peruviana"
+          }
+        }
+      ],
+      "name": "thevetia peruviana"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Vanilla planifolia",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "vanilla planifolia",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Vanilla planifolia",
+            "ott_id": 713007,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Epidendrum rubrum",
+              "Myrobroma fragrans",
+              "Notylia planifolia",
+              "Notylia sativa",
+              "Notylia sylvestris",
+              "Vanilla aromatica",
+              "Vanilla bampsiana",
+              "Vanilla duckei",
+              "Vanilla fragrans",
+              "Vanilla planifolia angusta",
+              "Vanilla planifolia haapape",
+              "Vanilla planifolia potiti",
+              "Vanilla planifolia tiarei",
+              "Vanilla planifolia tihita",
+              "Vanilla rubra",
+              "Vanilla sativa",
+              "Vanilla sylvestris",
+              "Vanilla viridiflora"
+            ],
+            "tax_sources": [
+              "ncbi:51239",
+              "gbif:2803398",
+              "irmng:10208945"
+            ],
+            "unique_name": "Vanilla planifolia"
+          }
+        }
+      ],
+      "name": "vanilla planifolia"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Chrysopogon zizanioides",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "chrysopogon zizanioides",
+          "taxon": {
+            "flags": [
+              "incertae_sedis_inherited"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Chrysopogon zizanioides",
+            "ott_id": 281780,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Agrostis verticillata",
+              "Anatherum muricatum",
+              "Anatherum zizanioides",
+              "Andropogon aromaticus",
+              "Andropogon muricatus",
+              "Andropogon odoratus",
+              "Andropogon squarrosus",
+              "Andropogon zizanioides",
+              "Chamaeraphis muricata",
+              "Holcus zizanioides",
+              "Phalaris zizanioides",
+              "Rhaphis zizanioides",
+              "Sorghum zizanioides",
+              "Vetiveria arundinacea",
+              "Vetiveria muricata",
+              "Vetiveria odorata",
+              "Vetiveria odoratissima",
+              "Vetiveria zizanioides",
+              "Vetiveria zizanioides genuina",
+              "Vetiveria zizanioides tonkinensis"
+            ],
+            "tax_sources": [
+              "ncbi:167337",
+              "gbif:5677150",
+              "irmng:10765346"
+            ],
+            "unique_name": "Chrysopogon zizanioides"
+          }
+        }
+      ],
+      "name": "chrysopogon zizanioides"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Trichostigma peruvianum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "trichostigma peruvianum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Trichostigma peruvianum",
+            "ott_id": 174038,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Rivina peruviana",
+              "Villamilla peruviana",
+              "Villamilla tinctoria"
+            ],
+            "tax_sources": [
+              "ncbi:239293",
+              "gbif:5687060"
+            ],
+            "unique_name": "Trichostigma peruvianum"
+          }
+        }
+      ],
+      "name": "trichostigma peruvianum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Coffea arabica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "coffea arabica",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Coffea arabica",
+            "ott_id": 1001050,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Coffea arabica abyssinica",
+              "Coffea arabica amarella",
+              "Coffea arabica angustifolia",
+              "Coffea arabica arabica",
+              "Coffea arabica bourbon",
+              "Coffea arabica brevistipulata",
+              "Coffea arabica bullata",
+              "Coffea arabica columnaris",
+              "Coffea arabica culta",
+              "Coffea arabica cultoides",
+              "Coffea arabica erecta",
+              "Coffea arabica goiaba",
+              "Coffea arabica latifolia",
+              "Coffea arabica laurina",
+              "Coffea arabica longistipulata",
+              "Coffea arabica maragogype",
+              "Coffea arabica mirta",
+              "Coffea arabica mokka",
+              "Coffea arabica monosperma",
+              "Coffea arabica murta",
+              "Coffea arabica myrtifolia",
+              "Coffea arabica pendula",
+              "Coffea arabica polysperma",
+              "Coffea arabica pubescens",
+              "Coffea arabica purpurascens",
+              "Coffea arabica rotundifolia",
+              "Coffea arabica straminea",
+              "Coffea arabica sundana",
+              "Coffea arabica typica",
+              "Coffea arabica variegata",
+              "Coffea bourbonica",
+              "Coffea corymbulosa",
+              "Coffea laurifolia",
+              "Coffea moka",
+              "Coffea sundana",
+              "Coffea vulgaris"
+            ],
+            "tax_sources": [
+              "ncbi:13443",
+              "gbif:2895345",
+              "irmng:11107021"
+            ],
+            "unique_name": "Coffea arabica"
+          }
+        }
+      ],
+      "name": "coffea arabica"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Phedimus spurius",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "phedimus spurius",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Phedimus spurius",
+            "ott_id": 526581,
+            "rank": "species",
+            "source": "ott3.3draft1",
+            "synonyms": [
+              "Anacampseros ciliaris",
+              "Anacampseros dentata",
+              "Anacampseros spuria",
+              "Asterosedum spurium",
+              "Crassula crenata",
+              "Phedimus crenatus",
+              "Sedum congestum",
+              "Sedum crenatum",
+              "Sedum dentatum",
+              "Sedum denticulatum",
+              "Sedum involucratum",
+              "Sedum lazicum",
+              "Sedum oppositifolium",
+              "Sedum spurium",
+              "Sedum spurium album",
+              "Sedum spurium coccineum",
+              "Sedum spurium involucratum",
+              "Sedum spurium oppositifolium",
+              "Spathulata spuria"
+            ],
+            "tax_sources": [
+              "ncbi:202991",
+              "gbif:4201607",
+              "irmng:10854038"
+            ],
+            "unique_name": "Phedimus spurius"
+          }
+        }
+      ],
+      "name": "phedimus spurius"
+    },
+    {
+      "matches": [],
+      "name": "nd"
+    }
+  ],
+  "taxonomy": {
+    "author": "open tree of life project",
+    "name": "ott",
+    "source": "ott3.3draft1",
+    "version": "3.3",
+    "weburl": "https://tree.opentreeoflife.org/about/taxonomy-version/ott3.3"
+  },
+  "unambiguous_names": [
+    "abroma augustum",
+    "abutilon grandifolium",
+    "alpinia galanga",
+    "alpinia officinarum",
+    "ananas comosus",
+    "annona cherimola",
+    "arachis hypogaea",
+    "averrhoa carambola",
+    "bambusa vulgaris",
+    "bixa orellana",
+    "blighia sapida",
+    "boehmeria nivea",
+    "brahea edulis",
+    "brosimum alicastrum",
+    "tara spinosa",
+    "canna indica",
+    "capsicum frutescens",
+    "carica papaya",
+    "carludovica palmata",
+    "catha edulis",
+    "catharanthus roseus",
+    "cinnamomum verum",
+    "costus afer",
+    "cheilocostus speciosus",
+    "crescentia cujete",
+    "cycas circinalis",
+    "cyperus esculentus",
+    "cyperus papyrus",
+    "derris elliptica",
+    "elettaria cardamomum",
+    "elettaria ensal",
+    "erythroxylum coca",
+    "eucharis x grandiflora",
+    "eugenia uniflora",
+    "ficus elastica",
+    "furcraea gigantea",
+    "gossypium arboreum",
+    "guaiacum officinale",
+    "gynostemma pentaphyllum",
+    "talipariti tiliaceum",
+    "hylocereus undatus",
+    "indigofera tinctoria",
+    "jasminum sambac",
+    "khaya senegalensis",
+    "leucaena",
+    "phyla dulcis",
+    "mangifera indica",
+    "manihot esculenta",
+    "morina longifolia",
+    "bergera koenigii",
+    "festuca paniculata",
+    "musa acuminata",
+    "musa basjoo",
+    "oryza sativa",
+    "passiflora quadrangularis",
+    "paullinia cupana",
+    "payena leerii",
+    "persea americana",
+    "persicaria odorata",
+    "physalis peruviana",
+    "piper betle",
+    "piper longum",
+    "piper retrofractum",
+    "plectranthus amboinicus",
+    "pogostemon cablin",
+    "psidium cattleyanum",
+    "psychotria bacteriophila",
+    "rivina humilis",
+    "rungia klossii",
+    "saccharum officinarum",
+    "salvia divinorum",
+    "sansevieria longiflora",
+    "sansevieria trifasciata",
+    "senna alexandrina",
+    "senna siamea",
+    "serenoa repens",
+    "solanum betaceum",
+    "solanum quitoense",
+    "stevia rebaudiana",
+    "strophanthus gratus",
+    "strophanthus hispidus",
+    "syzygium jambos",
+    "thevetia peruviana",
+    "vanilla planifolia",
+    "chrysopogon zizanioides",
+    "trichostigma peruvianum",
+    "coffea arabica",
+    "phedimus spurius"
+  ],
+  "unmatched_names": [
+    "nd"
+  ]
+}
