@@ -105,24 +105,31 @@ nmds_plot<- scores %>%
 
 nmds_plot
 
+
+
 ### data supervizer
 
 metabo_matrix_format <- data.frame(metabo_matrix_format)
-metabo_matrix_format$attribute <- metadata_format$
+metabo_matrix_format$attribute <- metadata_format$attribute_2
   
   
-  ##################### plsda 
   
-  liney <- MASS::lda(attribute_2~., data = metabo_matrix_format)
-result <- predict(liney, metabo_matrix_format)
-lhat <- 1 - sum(result$class == metabo_matrix_format$attribute_2)/length(metabo_matrix_format$attribute_2)
+  model_1 = randomForest(attribute~., data = metabo_matrix_format, importance = TRUE,ntree=1000)
 
-data <- data.frame(x1=result$x[,1], y=metabo_matrix_format$attribute_2)
-data$y <- factor(data$y)
-LDA <- ggplot(data, aes(x=x1, fill=y)) +
-  geom_density(adjust=5, alpha=0.6) +
-  xlab("x1") +
-  ylab("Density") +
-  ggtitle(sprintf("PLS-LDA, L = %.2f", lhat)) + scale_fill_manual(values=cols2)+
-  theme_bw()
+ozone.rp <- rfPermute(discriminating_factor_1 ~ ., data = metabo_matrix_format, na.action = na.omit, ntree = 100, num.rep = 50)
+ozone.rp
+
+importance =  randomForest::importance(model_1)
+varImportance = data.frame(Variables = row.names(importance),
+                           Importance =round(importance[, "MeanDecreaseAccuracy"],2))
+
+rankImportance= varImportance %>% mutate(Rank=paste("#",dplyr::dense_rank(dplyr::desc(Importance))))
+rankImportance2 <- rankImportance[rankImportance$Importance > 2,]
+
+var_imp<- ggplot(rankImportance2,aes(x=reorder(Variables,Importance),y=Importance,fill=Importance))+ 
+  geom_bar(stat="identity") + 
+  geom_text(aes(x = Variables, y = 0.5, label = Rank),hjust=0, vjust=0.55, size = 4, colour = "white") +
+  labs(x = "Variables") +
+  coord_flip() + 
+  theme_classic()
 
