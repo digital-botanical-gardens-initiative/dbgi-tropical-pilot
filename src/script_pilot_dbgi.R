@@ -136,21 +136,28 @@ var_imp<- ggplot(rankImportance2,aes(x=reorder(Variables,Importance),y=Importanc
   coord_flip() + 
   theme_classic()
 
+
 setwd("G:/My Drive/taf/git_repository/dbgi-tropical-pilot/docs/results")
 sink("table.txt")
 print(summary(ozone.rp))
 sink() 
 
-Rr_perm <- readLines("G:/My Drive/taf/postdoc neuchatel/ted_turling/ERC/Carla+Greg GCMS data/table.txt")
+Rr_perm <- readLines("G:/My Drive/taf/git_repository/dbgi-tropical-pilot/docs/results/table.txt")
 Rr_perm <- Rr_perm[-length(Rr_perm)]
 
 
 
-pdf("G:/My Drive/taf/git_repository/dbgi-tropical-pilot/docs/results/result_pilot_dbgi.pdf")
+pdf("G:/My Drive/taf/git_repository/dbgi-tropical-pilot/docs/results/result_pilot_dbgi.pdf",width=15, height=15)
 title <- "result_pilot_dbgi"
 grid::grid.text(title,x = (0.5), y = (0.6))
 circ
 nmds_plot
 var_imp
+par(mar = c(0.1,1,1,0.1))
+plot(x=c(1,21),y=c(1,29.7),type="n", axes=FALSE, frame.plot=FALSE, xlab="", ylab="")
+liner <- rev(seq(1,29,0.4)) ## interline
+for (i in c(1:length(Rr_perm))) {
+  text(x=2, y=liner[i], labels=Rr_perm[i],cex = 0.5,pos = 4) 
+}
 dev.off()
 
