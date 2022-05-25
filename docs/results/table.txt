@@ -1,0 +1,16 @@
+An rfPermute model
+
+               Type of random forest: classification 
+                     Number of trees: 100 
+No. of variables tried at each split: 133 
+       No. of permutation replicates: 5 
+                          Start time: 2022-05-25 16:26:50 
+                            End time: 2022-05-25 16:27:16 
+                            Run time: 26.3 secs 
+
+                liquid_nitrogen nd silica_gel pct.correct LCI_0.95 UCI_0.95
+liquid_nitrogen              92  0          0       100.0     96.1    100.0
+nd                            0  6          0       100.0     54.1    100.0
+silica_gel                    4  0         36        90.0     76.3     97.2
+Overall                      NA NA         NA        97.1     92.7     99.2
+NULL

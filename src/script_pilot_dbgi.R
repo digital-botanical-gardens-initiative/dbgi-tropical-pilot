@@ -106,25 +106,28 @@ nmds_plot<- scores %>%
 nmds_plot
 
 
-
 ### data supervizer
 
 metabo_matrix_format <- data.frame(metabo_matrix_format)
-metabo_matrix_format$attribute <- metadata_format$attribute_2
+metabo_matrix_format$attribute <- as.factor(metadata_format$attribute_2)
   
   
-  
-  model_1 = randomForest(attribute~., data = metabo_matrix_format, importance = TRUE,ntree=1000)
 
-ozone.rp <- rfPermute(discriminating_factor_1 ~ ., data = metabo_matrix_format, na.action = na.omit, ntree = 100, num.rep = 50)
-ozone.rp
+model_1 = randomForest(x = metabo_matrix_format[, colnames(metabo_matrix_format) != "attribute"],
+  y = metabo_matrix_format$attribute, importance = TRUE,ntree=100)
+  
+ozone.rp <- rfPermute(x = metabo_matrix_format[, colnames(metabo_matrix_format) != "attribute"],
+                      y = metabo_matrix_format$attribute, na.action = na.omit, ntree = 100, num.rep = 5)
+
+# plotImportance(ozone.rp, scale = TRUE,size = 3)
+
 
 importance =  randomForest::importance(model_1)
 varImportance = data.frame(Variables = row.names(importance),
                            Importance =round(importance[, "MeanDecreaseAccuracy"],2))
 
 rankImportance= varImportance %>% mutate(Rank=paste("#",dplyr::dense_rank(dplyr::desc(Importance))))
-rankImportance2 <- rankImportance[rankImportance$Importance > 2,]
+rankImportance2 <- rankImportance[rankImportance$Importance > 1.1,]
 
 var_imp<- ggplot(rankImportance2,aes(x=reorder(Variables,Importance),y=Importance,fill=Importance))+ 
   geom_bar(stat="identity") + 
@@ -132,4 +135,22 @@ var_imp<- ggplot(rankImportance2,aes(x=reorder(Variables,Importance),y=Importanc
   labs(x = "Variables") +
   coord_flip() + 
   theme_classic()
+
+setwd("G:/My Drive/taf/git_repository/dbgi-tropical-pilot/docs/results")
+sink("table.txt")
+print(summary(ozone.rp))
+sink() 
+
+Rr_perm <- readLines("G:/My Drive/taf/postdoc neuchatel/ted_turling/ERC/Carla+Greg GCMS data/table.txt")
+Rr_perm <- Rr_perm[-length(Rr_perm)]
+
+
+
+pdf("G:/My Drive/taf/git_repository/dbgi-tropical-pilot/docs/results/result_pilot_dbgi.pdf")
+title <- "result_pilot_dbgi"
+grid::grid.text(title,x = (0.5), y = (0.6))
+circ
+nmds_plot
+var_imp
+dev.off()
 
